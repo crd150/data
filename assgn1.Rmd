@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1"
-subtitle: CRD 150
+subtitle: CRD 150, Lab #
 author: YOUR FULL NAME HERE
 date: Due by 12:00 am, October 5th on Canvas
 output: 
@@ -12,48 +12,49 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-1. Look up the help documentation for the function `rep()`. How would you use this function to create the following 3 vectors. 
-* [1] 0 0 0 0 0
+1. Look up the help documentation for the function `rep()`. How would you use this function to create the following 3 vectors. (Each question is worth 1 point).
+
+a. [1] 0 0 0 0 0
 
 ```{r warning=FALSE, message = FALSE}
 #Insert your code here
 ```
 
-* [1] 1 2 3 1 2 3 1 2 3 1 2 3
-
-```{r warning=FALSE, message = FALSE}
-#Insert your code here
-```
-
-
-* [1] 4 5 5 6 6 6
+b. [1] 1 2 3 1 2 3 1 2 3 1 2 3
 
 ```{r warning=FALSE, message = FALSE}
 #Insert your code here
 ```
 
 
-2. What is the differences and similarities between the output produced by a data frame and the equivalent tibble for the following operations.
-* nyctib$year, nycdf$year
-* nyctib[,1], nyctib[,1]
+c. [1] 4 5 5 6 6 6
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
 
 
-3. How much programming experience do you have? Select one: (a) Never programmed before, (b) Some experience, (c)Extensive experience.
+2. What are the differences and similarities between the output produced by a data frame and the equivalent tibble for the following operations. (Each question is worth 1 point).
+a. nyctib\$year, nycdf\$year
+b. nyctib[,1], nycdf[,1]
 
 
-4. How would you rate your familiarity with the R programming language? Select one: (a) Never used, (b) Installed on machine but don't really use, (c) Basic competence, (d) R Wizard.
+3. How much programming experience do you have? Select one: (a) Never programmed before, (b) Some experience, (c)Extensive experience. (1 point)
 
 
-
-5. Which of the following statistics concepts have you covered in previous classes? Select all that apply: means and medians, standard deviations, statistical hypothesis testing, t-tests, analysis of variance, linear regression, pvalues, geographic information systems, spatial autocorrelation.
-
-
-
-6. What are you hoping to get out of this class?
+4. How would you rate your familiarity with the R programming language? Select one: (a) Never used, (b) Installed on machine but don't really use, (c) Basic competence, (d) R Wizard. (1 point)
 
 
 
-7. In this class we will be studying cities.  Identify one U.S. city you would like to learn more about and briefly explain why.
+5. Which of the following statistics concepts have you covered in previous classes? Select all that apply: means and medians, standard deviations, statistical hypothesis testing, t-tests, analysis of variance, linear regression, pvalues, geographic information systems, spatial autocorrelation. (1 point)
+
+
+
+6. What are you hoping to get out of this class? (1 point)
+
+
+
+7. In this class we will be studying cities.  Identify one U.S. city you would like to learn more about and briefly explain why. (1 point)
 
 
 
