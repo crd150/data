@@ -23,8 +23,6 @@ medincome: Median household income
 
 rent: Median rental price (rental-occupied housing units)
 
-tpop: Total population size
-
 pnewh: Percent of housing units built after 2000
 
 medhval: Median housing value (owner-occupied housing units)
