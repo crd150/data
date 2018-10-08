@@ -1,0 +1,35 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 --------------------------------------------------------------------------------\
+Codebook for Week 3 Assignment data file ca_tracts.csv \
+--------------------------------------------------------------------------------\
+\
+All data were downloaded from the 2012-2016 American Community Survey\
+Units of Observations: Census tracts in 2010 boundaries\
+ \
+GEOID: Census Tract ID\
+County: County name\
+State: State name\
+Tract: Tract name\
+Medincome: Median household income\
+Rent: Median rental price (Renter-occupied housing units) \
+tpop: Total population size\
+Pnewh: Percent of housing units built after 2000\
+Medieval: Median housing value (owner-occupied housing units)\
+Pwht: Percent of residents - non-Hispanic white  \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 Pblk:  Percent of residents - non-Hispanic black\
+Pasn: Percent of residents - non-Hispanic Asian\
+Phsp: Percent of residents - non-Hispanic Hispanic\
+Region: \
+	Bay Area - Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma   \
+	Southern California - Imperial, San Diego, Riverside, Orange, Los Angeles, San Bernardino, Ventura, Santa Barbara\
+	Other California - Counties not in Bay Area or Southern California\
+	Oregon\
+	Arizona\
+	Nevada}
