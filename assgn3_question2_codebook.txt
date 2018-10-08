@@ -1,0 +1,47 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 3, Questions 2-3 data file ca_border_tracts.csv
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2012-2016 American Community Survey 
+Units of observations: Census tracts in 2010 boundaries
+California, Arizona, Nevada, Oregon
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+county: County name
+
+state: State name
+
+tract: Tract name
+
+medincome: Median household income
+
+rent: Median rental price (rental-occupied housing units)
+
+tpop: Total population size
+
+pnewh: Percent of housing units built after 2000
+
+medhval: Median housing value (owner-occupied housing units)
+
+pwht: Percent of residents - non-Hispanic white
+
+pblk: Percent of residents - non-Hispanic black
+
+pasn: Percent of residents - non-Hispanic Asian
+
+phsp: Percent of residents - Hispanic
+
+region: 
+
+Bay Area - Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma
+Southern California - Imperial, San Diego, Riverside, Orange, Los Angeles, San Bernardino, Santa Barbara, Ventura
+Other California - Counties in California not in Bay Area or Southern California
+Oregon
+Arizona
+Nevada

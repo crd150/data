@@ -1,0 +1,101 @@
+FIPS Code,phys,health,hburden,unemp,medinc,foodaccess
+6067005205,22.5,44.03,21.2,12.37,30585,Low Income and Low Access
+6067007204,23.86,49.97,27.4,10.42,56806,Not Low Income and Low Access
+6067009601,21.83,45.02,23.5,15.73,52750,Not Low Income and Low Access
+6067007106,25.54,56.98,25.2,6.04,98056,Not Low Income and Low Access
+6067005301,19.24,30.91,25.5,37.5,12355,Not Low Income and Low Access
+6067007015,23.47,48.43,20.6,4.42,61061,Not Low Income and Low Access
+6067005402,23.9,49.27,21.278350515463917,8.77,41614,Low Income and Low Access
+6067006900,20.52,42.11,22.1,24.07,30309,Low Income and Low Access
+6067003800,22.84,45.46,21.4,13.83,51375,Not Low Income and Low Access
+6067007018,25.86,52.97,24.4,13.92,57589,Not Low Income and Low Access
+6067007102,24.45,50.94,22.8,7.12,73980,Not Low Income and Low Access
+6067006702,21.33,40.16,26,9.17,35276,Low Income and Low Access
+6067007007,22.97,43.86,20.8,11.69,51186,Not Low Income and Low Access
+6067006500,21.7,40.63,27.2,16.36,36486,Low Income and Low Access
+6067009608,23.77,50.05,23.7,11.35,59500,Not Low Income and Low Access
+6067004300,23.58,45.28,28.6,16.59,43819,Low Income and Low Access
+6067005204,23.56,51.87,18.5,6.66,71595,Not Low Income and Low Access
+6067001700,22.94,45.48,18.6,3.65,55197,Low Income and Low Access
+6067006400,20.68,42.99,22.4,16.1,37724,Low Income and Low Access
+6067004001,22.65,45.03,19.7,10.47,52500,Not Low Income and Low Access
+6067007001,21.28,42.96,27.6,12.66,42269,Not Low Income and Low Access
+6067006701,23.53,47.23,21,9.08,45722,Not Low Income and Low Access
+6067002400,23.5,51.71,15.5,2.49,123684,Not Low Income and Low Access
+6067001600,24.08,53.83,17.9,4.86,100129,Not Low Income and Low Access
+6067004004,23.19,49.23,17.3,7.44,89782,Not Low Income and Low Access
+6067007004,24.48,47.11,22.3,10.52,41062,Not Low Income and Low Access
+6067005502,21.21,42.91,19.5,15.99,30245,Low Income and Low Access
+6067006300,21,41.97,23.7,21.38,33315,Not Low Income and Low Access
+6067002200,21.61,42.48,24.1,13.12,30438,Low Income and Low Access
+6067009606,22.3,40.98,26.6,13.9,38233,Not Low Income and Low Access
+6067007010,25.45,52.39,15.2,4.18,60027,Not Low Income and Low Access
+6067007020,24.89,54.84,22.4,3.92,83702,Not Low Income and Low Access
+6067003e3,22.87,48.1,22.1,8.31,60093,Not Low Income and Low Access
+6067006800,22.23,41.49,15.5,12.7,22977,Not Low Income and Low Access
+6067003900,23.03,48.21,18.3,5.38,63668,Not Low Income and Low Access
+6067003300,22.92,47.79,16.9,3.22,72308,Not Low Income and Low Access
+6067002900,22.58,47.31,19.1,6.31,49552,Not Low Income and Low Access
+6067000100,23.27,52.35,17.1,4.99,104271,Not Low Income and Low Access
+6067003400,21.68,43.84,18.1,10.35,61287,Not Low Income and Low Access
+6067007104,25.44,54.81,21.8,5.91,87393,Not Low Income and Low Access
+6067006600,20.65,40.31,31,13.95,28000,Not Low Income and Low Access
+6067007103,26.68,54.94,26.2,4.45,72431,Not Low Income and Low Access
+6067004005,22.59,46.63,20.6,11.37,67721,Not Low Income and Low Access
+6067005201,24.41,44.38,21.278350515463917,24.9,16821,Low Income and Low Access
+6067007105,25.26,53.46,22.7,8.3,73971,Not Low Income and Low Access
+6067004100,19.68,36.42,18,11.91,29635,Low Income and Low Access
+6067004012,24.91,54.13,17.7,10.05,119615,Not Low Income and Low Access
+6067004006,23.85,48.26,17.2,12.35,52292,Not Low Income and Low Access
+6067007011,24.48,47.43,22.9,12.56,49896,Low Income and Low Access
+6067007014,23.38,47.13,19.8,12.31,51835,Not Low Income and Low Access
+6067004201,21.74,42.9,24.1,12.53,43365,Low Income and Low Access
+6067005202,24.41,50.08,17.2,5.09,68412,Not Low Income and Low Access
+6067004009,24.64,51.36,18.9,5.57,70833,Not Low Income and Low Access
+6067004801,19.74,39.48,26.7,14.51,36369,Not Low Income and Low Access
+6067009610,23.1,45.78,21.9,9.43,57625,Low Income and Low Access
+6067004903,21.11,40.22,24.4,19.91,31529,Low Income and Low Access
+6067001500,23.6,52.74,18.7,7.09,94276,Not Low Income and Low Access
+6067001800,22.82,47.06,19,9.87,52451,Not Low Income and Low Access
+6067004905,21.33,39.17,21.1,15.42,40568,Not Low Income and Low Access
+6067004008,23.91,51.35,18.4,7.05,82415,Not Low Income and Low Access
+6067003202,21.23,41.19,22.1,19.84,33704,Not Low Income and Low Access
+6067004010,23.76,48.53,18.5,9.1,41184,Not Low Income and Low Access
+6067004202,21.01,40.33,20.7,18.2,36379,Not Low Income and Low Access
+6067004203,20.76,37.95,22.8,18.63,35568,Not Low Income and Low Access
+6067006202,19.95,39.92,24.5,24.2,25972,Low Income and Low Access
+6067003204,21.08,39.28,24.4,15.98,33519,Not Low Income and Low Access
+6067001101,21.53,44.32,21.7,7.75,27472,Low Income and Low Access
+6067002100,23.25,44.76,16.6,10.91,47841,Not Low Income and Low Access
+6067000200,23.17,52.03,18.6,5.45,99540,Not Low Income and Low Access
+6067009609,24.43,49.19,26.6,13.36,60048,Not Low Income and Low Access
+6067000300,23.84,53.32,19.5,7.12,103529,Not Low Income and Low Access
+6067003700,20.68,36.87,20.4,17.34,27765,Not Low Income and Low Access
+6067005403,23.01,50.78,18.2,3.62,65156,Not Low Income and Low Access
+6067002700,21.75,41.62,29.6,6.46,31591,Not Low Income and Low Access
+6067003600,21.57,42.84,24,12.53,38500,Not Low Income and Low Access
+6067003502,22.05,45.92,21.6,9.81,46691,Not Low Income and Low Access
+6067003101,21.03,42.54,21.7,9.71,45521,Not Low Income and Low Access
+6067004011,23.95,49.8,19.6,1.39,107083,Not Low Income and Low Access
+6067002300,23.63,53.19,18.2,2.2,104301,Not Low Income and Low Access
+6067003501,22.04,44.21,20,6.07,37733,Not Low Income and Low Access
+6067009634,22.98,43.67,21.7,13.36,37356,Not Low Income and Low Access
+6067003102,22.31,45.47,21.1,10.45,42933,Not Low Income and Low Access
+6067001900,23.75,49.43,17.2,7.35,42534,Not Low Income and Low Access
+6067007012,23.02,47.82,21.7,16.8,51289,Not Low Income and Low Access
+6067002e3,21.51,44.3,20.6,9.01,32780,Not Low Income and Low Access
+6067003203,22.48,43.5,24.2,11.74,32841,Not Low Income and Low Access
+6067002500,24.07,54.97,18.5,4.41,100278,Not Low Income and Low Access
+6067000400,23.85,50.4,20.5,2.48,55714,Not Low Income and Low Access
+6067004906,22.35,43.04,19.9,11.03,45446,Not Low Income and Low Access
+6067002600,22.86,49.44,19.4,8.83,79571,Not Low Income and Low Access
+6067002800,20.99,40.17,23,13.85,31806,Not Low Income and Low Access
+6067000500,24.67,50.56,19.4,6.85,53977,Low Income and Low Access
+6067001400,23,47.55,16.2,10.51,31368,Not Low Income and Low Access
+6067001300,23.84,50.22,17.4,9.1,46713,Not Low Income and Low Access
+6067009633,22.59,44.39,26.3,8.51,41477,Not Low Income and Low Access
+6067001200,22.22,47.24,21.8,3.45,35674,Not Low Income and Low Access
+6067007013,23.69,49.45,19.2,11.4,60551,Not Low Income and Low Access
+6067000800,23.39,49.34,16.3,10.31,60571,Not Low Income and Low Access
+6067000700,17.04,28.72,21.278350515463917,34.69,12171,Low Income and Low Access
+6067000600,22.23,44.18,22.2,19.27,22106,Not Low Income and Low Access
