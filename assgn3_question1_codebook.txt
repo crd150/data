@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 3, Question 1 data file sac_health_policymap.csv
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from PolicyMap (https://ucdavis.policymap.com/maps)
+Units of observations: Census tracts in 2010 boundaries
+Sacramento City, California
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+FIPS code: Census Tract ID
+
+health: Percent of Adults reporting very good to excellent health in the past 30 days (2013)
+
+phys: Perent of Adults reporting to meet physical activity recommendations according to US Department of Health and Human Services guidelines (2013)
+
+hburden: Home owner cost burden - owner costs as a percent of income (2012-2016)
+
+unemp: Percent of civilian labor force 16 years and older that are unemployed (2012-2016)
+
+medinc: Median household income (2012-2016)
+
+foodaccess: Whether a tract is low-income and has low access to a grocery store according to the USDA.  See the Data and Methodology section in the link below to understand how the USDA determined low income and low access (https://www.ers.usda.gov/webdocs/publications/82101/eib-165.pdf?v=0).
