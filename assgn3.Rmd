@@ -1,0 +1,82 @@
+---
+title: "Assignment 3"
+subtitle: CRD 150
+author: YOUR FULL NAME HERE
+date: Due by 12:00 am, October 19th on Canvas
+output: 
+  html_document:
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+1. As a comprehensive source for neighborhood data, PolicyMap allows you to examine interesting associations across different dimensions of neighborhood health and well-being.  Let's utilize this important feature by examining potential predictors of resident health in the City of Sacramento. Bring into R the dataset [sac_health_policymap.csv](https://raw.githubusercontent.com/crd150/data/master/sac_health_policymap.csv), which contains census-tract level data on Sacramento downloaded from PolicyMap.  Consider the dataset to be cleaned and ready for analysis.  A record layout of the data can be found [here](https://raw.githubusercontent.com/crd150/data/master/assgn3_question1_codebook.txt).
+
+a. Create a histogram of the variable *health*, which measures the percent of residents reporting very good to excellent health.  Describe the shape of the distribution. (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+b. Examine the association between *health* and the variable *foodaccess*, which measures grocery store access for low income neighborhoods. Based on this examination, briefly describe the relationship between the variable *health* and *foodaccess*. (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+c. Create scatterplots showing the association between *health* and the following variables: *phys*, *hburden*, *unemp*, and *medinc*.  Based on these scatterplots, briefly describe the relationship between *health* and the four variables, specifically noting any nonlinearities in the relationship. (4 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+
+
+2. The following questions investigate housing structure in Yolo County. Bring into R the dataset [ca_border_tracts.csv](https://raw.githubusercontent.com/crd150/data/master/ca_border_tracts.csv), which contains 2012-2016 American Community Survey (ACS) data for census tracts in California and states sharing a boundary with California (Arizona, Nevada, and Oregon). Consider the dataset to be cleaned and ready for analysis.  A record layout of the data can be found [here](https://raw.githubusercontent.com/crd150/data/master/assgn3_question2_codebook.txt). 
+
+a. What is the mean, median, interquartile range, and standard deviation of the percentage of houses built since 2000 in Yolo County? (2 points) 
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+b. What is the correlation between median household income and percentage of houses built since 2000 in Yolo County? (1 point)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+c. Show a plot investigating any potential outliers in the percentage of houses built since 2000 in Yolo County? (1 point)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+d. Did you find any outliers? If so, how many? What is the mean, median and standard deviation of the percentage of houses built since 2000 in Yolo County *without* these outliers? What about the correlation between median household income and percentage of houses built since 2000? (3 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+e. Briefly comment on what you’ve learned. (1 point)
+
+
+
+3.  The following questions uses the same dataset from Question 2 to investigate differences across major California regions and states sharing a boundary with California.  Because California is so large, we separated the state into three regions: Bay Area, Southern California, and the rest of California.
+
+a. Calculate 90/10 percentile ratios for median household income for each region (Bay Area, Southern California, Other California, Arizona, Nevada, and Oregon).  Which region exhibits the highest neighborhood income inequality? Lowest? (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+b. What is the association between median household income and percent white, black, and Hispanic for all regions combined? Are there any specific regions that noticeably differ from these associations? If so, which ones and how do they differ? (2 points).
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+
