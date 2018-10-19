@@ -52,7 +52,7 @@ a. What is the average percent non-Hispanic white, percent non-Hispanic black, p
 #Insert your code here
 ```
 
-b. Show percent non-Hispanic black, non-Hispanic white, non-Hispanic Asian, and Hispanic on a 2 x 2 facet map using quantile breaks. (2 points)
+b. Show percent non-Hispanic black, non-Hispanic white, non-Hispanic Asian, and Hispanic on a 2 x 2 facet map using quantile breaks. Hint: You will need to restructure your data set. (2 points)
 
 ```{r warning=FALSE, message = FALSE}
 #Insert your code here
