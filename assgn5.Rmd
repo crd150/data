@@ -13,6 +13,10 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r warning=FALSE, message = FALSE}
+#Insert the code from lab that creates the objects sac.tracts.sp, sacb, sacw, and sacb.lag
+```
+
 1. Explain the results of the following commands (1 point each)
 a. sacb[[1]]
 b. plot(sac.tracts.sp)
@@ -34,13 +38,7 @@ b. Calculate Moran's I for each percent race/ethnicity variable. Which race/ethn
 #Insert your code here
 ```
 
-c. Do your conclusions in (b) change if you use a Rook definition of neighbor (with row standardized weights)? (2 points)
-
-```{r warning=FALSE, message = FALSE}
-#Insert your code here
-```
-
-d. Run the function `moran.mc()` for percent Hispanic. In words, explain and interpret what each of the following results are showing: data, weights, number of simulations, statistic, observed rank and p-value. (3 points)
+c. In words, explain and interpret what each of the following results are showing after running the function `moran.mc()` on the variable percent Hispanic: data, weights, number of simulations, statistic, observed rank and p-value. (3 points)
 
 ```{r warning=FALSE, message = FALSE}
 #Insert your code here
@@ -61,7 +59,7 @@ a. You already have percent poverty preloaded into the file. What is the mean po
 #Insert your code here
 ```
 
-b. Bring in two other characteristics into your dataset using the Census or [PolicyMap](https://crd150.github.io/policymap.html). Calculate their means for black, Hispanic, and Asian enclaves.  Present these characteristics along with mean poverty by ethnic enclave in a presentation-ready table (using the principles outlined in Week 2). Describe what the table is showing.  Submit this table in a word document. (4 points)
+b. Bring in three other characteristics into your dataset using the Census or [PolicyMap](https://crd150.github.io/policymap.html). Calculate their means for black, Hispanic, and Asian enclaves.  Present these characteristics along with mean poverty by ethnic enclave in a presentation-ready table (using the principles outlined in Week 2). Describe what the table is showing, specifically highlighting differences between the three enclaves.  Submit this table in a word document. (4 points)
 
 ```{r warning=FALSE, message = FALSE}
 #Insert your code here
