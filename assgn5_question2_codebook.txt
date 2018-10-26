@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 5, Question 2 data file sacmetrotracts_race.shp
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2012-2016 American Community Survey 
+Units of observations: Census tracts in 2010 boundaries
+Sacramento Metropolitan Area
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+NAME: Census tract, County and State name
+
+ppov: Percent of households living in poverty
+
+tpop: Total population
+
+pnhwhite: Percent of residents - non-Hispanic white
+
+pnhasn: Percent of residents - non-Hispanic black
+
+pnhblk: Percent of residents - non-Hispanic Asian
+
+phisp: Percent of residents - Hispanic
