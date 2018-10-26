@@ -44,7 +44,7 @@ c. In words, explain and interpret what each of the following results are showin
 ```
 
 
-3. An important use of hot spot analysis is to identify [ethnic enclaves](https://en.wikipedia.org/wiki/Ethnic_enclave). Use the Local Getis-Ord $G_i^*$ statistic to map black, Hispanic, and Asian hot spots (or enclaves) and cold spots in the Sacramento Metropolitan Area using Queen contiguity and row standardized weights. (3 points)
+3. An important use of hot spot analysis is to identify ethnic enclaves. Use the Local Getis-Ord $G_i^*$ statistic to map black, Hispanic, and Asian hot spots (or enclaves) and cold spots in the Sacramento Metropolitan Area using Queen contiguity and row standardized weights. (3 points)
 
 ```{r warning=FALSE, message = FALSE}
 #Insert your code here
@@ -58,7 +58,7 @@ a. You already have percent poverty preloaded into the file. What is the mean po
 #Insert your code here
 ```
 
-b. Bring in three other characteristics into your dataset using the Census or [PolicyMap](https://crd150.github.io/policymap.html). Calculate their means for black, Hispanic, and Asian enclaves.  Present these characteristics along with mean poverty by ethnic enclave in a presentation-ready table (using the principles outlined in Week 2). Describe what the table is showing, specifically highlighting differences between the three enclaves.  Submit this table in a word document. (4 points)
+b. Bring in three other characteristics into your dataset using the Census or PolicyMap. Calculate their means for black, Hispanic, and Asian enclaves.  Present these characteristics along with mean poverty by ethnic enclave in a presentation-ready table (using the principles outlined in Week 2). Describe what the table is showing, specifically highlighting differences between the three enclaves.  Submit this table in a word document. (4 points)
 
 ```{r warning=FALSE, message = FALSE}
 #Insert your code here
