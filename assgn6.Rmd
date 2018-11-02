@@ -1,0 +1,88 @@
+---
+title: "Assignment 6"
+subtitle: CRD 150
+author: YOUR FULL NAME HERE
+date: Due by 12:00 am, November 9th on Canvas
+output: 
+  html_document:
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. The following figures show plots of the G function for different sets of points. Indicate the point pattern - Complete Spatial Randomness, Uniform/Evenly spaced, or Clustered - in each plot. (1 point each)
+
+a.
+
+b.
+
+c.
+
+d. For the plot shown in (b), explain what is causing the G function's staircase shape. (1 point)
+ 
+2. For this question, you will conduct a point pattern analysis of Airbnb listings in Oakland.
+
+a. Bring in the Oakland census tract shapefile first.  Then bring in the Airbnb locations and convert them to a spatial point **sf** object. Reproject both the tract and Airbnb locations to NAD 83/GRS80/UTM Zone 10. Keep Airbnb locations within Oakland boundaries. (1 point)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+b. Use a first-order approach to show the spatial distribution of Airbnb locations in the city. What do your results suggest about the pattern of Airbnb locations? (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+c. Plot the K function with its envelopes using a border correction. What is R plotting on the x and y axis? (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+d. Plot the F and G functions with their envelopes using a border correction. (2 point)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+e. What do the K, F and G plots suggest about the pattern of Airbnb locations? (1 point)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+f. Show kernel density maps of Airbnb house and apartment listings using `style = "equal"` to break up your bins.  Based on these maps, is the intensity of Airbnb housing and apartment listings located in different areas of the city? (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+
+3. Airbnb has received criticism regarding its effects on local communities. See this [CityLab article](https://www.citylab.com/equity/2018/03/what-airbnb-did-to-new-york-city/552749/) outlining the major criticisms.  Let's explore the validity of these criticisms using our data set.  
+
+a. Community advocates claim that Airbnb increases rent. What is the correlation between tract-level rent and the number of Airbnb listings per 1,000 housing units? (1 point)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+b. This [article](https://theconversation.com/airbnb-and-empty-houses-whos-responsible-for-managing-the-impacts-on-our-cities-83959) contends that Airbnb promotes housing vacancy.  Calculate the correlation between percent vacant housing and the number of Airbnb listings per 1,000 housing units. (1 point)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+c. Another claim is that Airbnb locations are in predominantly white, higher income, and gentrifying neighborhoods.  What is the correlation between the number of Airbnb listings per 1,000 housing units and percent black, Hispanic, and median household income? (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+d. What is the correlation between neighborhood mean Airbnb prices and median income, percent black and percent Hispanic? (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
