@@ -1,0 +1,31 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 6 data file oak_tracts
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2012-2016 American Community Survey 
+Units of observations: Census tracts in 2010 boundaries
+Oakland City boundaries.
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+tpop: Total population
+
+pnhwhite: Percent of residents - non-Hispanic white
+
+pnhasn: Percent of residents - non-Hispanic black
+
+pnhblk: Percent of residents - non-Hispanic Asian
+
+phisp: Percent of residents - Hispanic
+
+medincome: Median household income
+
+hunits: Total number of housing units
+
+rent: Median gross rent
+
+pvac: Percent of housing units that are vacant
