@@ -54,12 +54,6 @@ e. What do the K, F and G plots suggest about the pattern of Airbnb locations? (
 #Insert your code here
 ```
 
-f. Show kernel density maps of Airbnb house and apartment listings using `style = "equal"` to break up your bins.  Based on these maps, is the intensity of Airbnb housing and apartment listings located in different areas of the city? (2 points)
-
-```{r warning=FALSE, message = FALSE}
-#Insert your code here
-```
-
 
 3. Airbnb has received criticism regarding its effects on local communities. See this [CityLab article](https://www.citylab.com/equity/2018/03/what-airbnb-did-to-new-york-city/552749/) outlining the major criticisms.  Let's explore the validity of these criticisms using our data set.  
 
