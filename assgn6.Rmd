@@ -80,9 +80,3 @@ c. Another claim is that Airbnb locations are in predominantly white, higher inc
 ```{r warning=FALSE, message = FALSE}
 #Insert your code here
 ```
-
-d. What is the correlation between neighborhood mean Airbnb prices and median income, percent black and percent Hispanic? (2 points)
-
-```{r warning=FALSE, message = FALSE}
-#Insert your code here
-```
