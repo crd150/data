@@ -1,0 +1,73 @@
+---
+title: "Assignment 7"
+subtitle: CRD 150
+author: YOUR FULL NAME HERE
+date: Due by 12:00 am, November 16th on Canvas
+output: 
+  html_document:
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+1. You will be calculating segregation indices for the cities of Detroit and Los Angeles.  **You do not need to convert the data sets used in this question into sf objects**.  Keep them as data frames (tibbles).
+
+a. Load into R racial/ethnic composition at the census tract level for Detroit.  The data set is in csv format and can be downloaded [here](https://raw.githubusercontent.com/crd150/data/master/detroit_tracts.csv).  Calculate the Black/White, Hispanic/White, and Asian/White Dissimilarity and Interaction indices. (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+b. Load into R racial/ethnic composition at the tract level for Los Angeles. The data set is in csv format and can be downloaded [here](https://raw.githubusercontent.com/crd150/data/master/los_angeles_tracts.csv). Calculate the Black/White, Hispanic/White, and Asian/White Dissimilarity and Interaction indices. (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+c. Intuitively, if you get a high Dissimilarity index, you should get a low Interaction index.  Comparing Detroit and Los Angeles Asian/White and Hispanic/White segregation, we find this to be the case.  However, we find that Los Angeles has a larger Black/White Dissimilarity index than Detroit, but has a higher Interaction index.  What is a good explanation for this finding? (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+
+2. The [Housing Authority of the City of Los Angeles](http://home.hacla.org/) wants to build an affordable housing development targeted towards families and has approached you to provide suggestions for potential neighborhoods.  
+
+a. Download the shapefile los_angeles_tracts_site.shp from the Assignments -> Assignment 7 folder on Canvas. The data set contains American Community Survey 2012-2016 tract-level percent of housing units that are vacant, percent of households with children under 18, and the six variables making up concentrated disadvantage.  The data are clean and require no wrangling. Bring this data into R and calculate population density and concentrated disadvantage. (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+b. Download data for 2012-2016 homeowner cost burden from [PolicyMap](https://ucdavis.policymap.com/maps). The specific variable you want is Percent of homeowners who are burdened.  You can find this under Housing -> Affordability -> Cost Burdens -> Homeowner Cost Burdens -> All Households -> Cost Burdened. Follow the [PolicyMap tutorial](https://crd150.github.io/policymap.html) to clean up the file, which includes dealing with missing data. Merge this file into the data set from (a). (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+c. Download data for elementary schools from the [Los Angeles Geohub](https://geohub.lacity.org/datasets/c493f3d44e97482e90ce9355019b1349_49). Click on Download and then click Shapefile. This is point data. Bring it into R. Calculate distance between neighborhood centroids and the nearest elementary school. (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+d. Download data for parks from the [Los Angeles Geohub](https://data.lacity.org/A-Livable-and-Sustainable-City/Department-of-Recreation-and-Parks-GIS-Map-of-Park/nuub-r4zx).  Click on Export and then Shapefile. Bring it into R. Calculate distance between neighborhood centroids and the nearest park.  The park data are in polygon form, so in order to calculate distances, you'll need to create park centroids. (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+e. Construct a site suitability model using the optimal selection method. Make sure to make tracts with no population ineligible. How many tracts are eligible? Provide a presentation-ready map showing the results of your model. (3 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+
+f. Construct a site suitability model using the categorical suitability count index method.  Provide a bar chart showing the distribution of tracts by number of satisfied criteria (Hint: Turn your frequency table into a tibble). Provide a presentation-ready map showing the results of your model. (3 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
