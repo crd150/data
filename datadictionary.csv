@@ -1,0 +1,73 @@
+Variable Label,Census Table,Variable description
+Male,Gender,% Male
+Age0to4,Age,% Age 0 to 4
+Age5to9,Age,% Age 5 to 9
+Age10to14,Age,% Age 10 to 14
+Age15to17,Age,% Age 15 to 17
+Age20to24,Age,% Age 20 to 24
+Age25to29,Age,% Age 25 to 29
+Age30to59,Age,% Age 30 to 59
+Age65to74,Age,% Age 65 to 74
+Age75,Age,% Age 75 and above
+Single,Marital Status,% Single
+Married,Marital Status,% Married
+WhiteBritish,Ethnicity,% White British
+WhiteOther,Ethnicity,% White Other
+Indian,Ethnicity,% Indian
+Pakistani,Ethnicity,% Pakistani
+Chinese,Ethnicity,% Chinese
+Black,Ethnicity,% Black
+CoBoldEU,Country of Birth,% Country of Birth EU Member countries in March 2001
+CoBnewEU,Country of Birth,% Country of Birth Accession countries April 2001 to March 2011
+BornOther,Country of Birth,% Born in a Non-EU Country
+Christian,Region,% Christian
+NonRelig,Region,% Non Religious
+GoodVeryGoodHealth,Health,% Good Very Good Health
+BadVeryBadHealth,Health,% Bad Very Bad Health
+PartTime,Economic Activity,% Employed Part Time
+FullTime,Economic Activity,% Employed Full Time
+Carer,Provision of Unpaid Care,% Providing Unpaid Care
+LLTI,Limiting Illness,% Activities Limited by Health or Disability
+AgricutureAndExtractive,Industry,% Agricuture and Extractive Activities
+ManufactAndConstruct,Industry,% Manufacturing and Construction Industries
+Finance,Industry,% Financial and Insurance Activities
+ProfTech,Industry,"% Professional, Scientific and Technical Activities"
+Admin,Industry,% Administrative and Support Service Activities
+Education,Industry,% Education
+Health,Industry,% Human Health and Social Work Activities
+NoQual,Qualifications,% No Qualifications
+Level4Qual,Qualifications,% Level 4 Qualifications and Above
+WorkHome,Method of Travel to Work,% Work from Home
+TTWCar,Method of Travel to Work,% Travel to Work by Car
+TTWwalk,Method of Travel to Work,% Travel to Work by Foot
+CoupleDepChild,Household Composition,% Couple with Depend Child(ren)
+CoupleNonDepChildren,Household Composition,% Couple with Non-dependent Children
+CoupleNoChildren,Household Composition,% Couple with No Children
+LoneParentDP,Household Composition,% Lone Parent Household
+1PersonUnder65,Household Composition,% Lone Person Household (under 65)
+1PersonOld,Household Composition,% Lone Person Household (65 or Over)
+Detached,Property Type,% Detached House or Bungalow
+Terrace,Property Type,% Terrace House or Bungalow
+Flat,Property Type,% Flat
+OwnedOutright,Tenure,% Owned Outright
+OwnedMortgage,Tenure,% Owned Mortgage
+SocialRent,Tenure,% Social Rented
+PrivateRent,Tenure,% Private Rented
+NoCar,Car Ownership,% No Car
+TwoOrMoreCars,Car Ownership,% Two or More Cars
+Student,Students,% Full-time Students
+AB,Social Grade,% A and B
+C1,Social Grade,% C1
+C2,Social Grade,% C2
+DE,Social Grade,% D and E
+EmpAndMgr,NS-SEC,% NSSEC 1_1 Large employers and higher managerial and administrative occupations
+HighProf,NS-SEC,% NSSEC 1_2 Higher professional occupations
+LowProf,NS-SEC,"% NSSEC 2 Lower managerial, administrative and professional occupations"
+Intermed,NS-SEC,% NSSEC 3 Intermediate occupations
+SmEmpSeEm,NS-SEC,% NSSEC 4 Small employers and own account workers
+LowSuper,NS-SEC,% NSSEC 5 Lower supervisory and technical occupations
+SemiRout,NS-SEC,% NSSEC 6 Semi-routine occupations
+Routine,NS-SEC,% NSSEC 7 Routine occupations
+NeverWork,NS-SEC,% NSSEC L14_1 Never worked
+LTUnemp,NS-SEC,% NSSEC L14_2 Long-term unemployed
+Density,Population Density,Number of People per KM
