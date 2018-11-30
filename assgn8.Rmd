@@ -1,0 +1,52 @@
+---
+title: "Assignment 8"
+subtitle: CRD 150
+author: YOUR FULL NAME HERE
+date: Due by 9:00 am, December 7th on Canvas
+output: 
+  html_document:
+    theme: cosmo
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r warning=FALSE, message = FALSE}
+#Insert the code from lab that creates the object ca.tracts.z
+```
+
+1. Let's share our maps with the outside world! You'll be creating a presentation-ready StoryMap of the Regional Opportunity Index (ROI) using ArcGIS online.
+
+a. Using the file ca.tracts.z, which we constructed in lab, create indices for the Economic, Housing, Health/Environment, and Civic Life ROI subdomains.  (2 points)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+  
+b. Create an overall opportunity index. (1 point)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+  
+c. In the lab guide, we created labels (High opportunity, High, ... Low Opportunity) for the Economic Opportunity Index in California neighborhoods.  Create labels for the other subdomains and the overall index.  (1 point)
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+  
+d. Filter *ca.tracts.z* to keep tracts in Sacramento city. Save this as a shapefile in an appropriate folder. Zip together all 4 files associated with the shapefile. 
+
+```{r warning=FALSE, message = FALSE}
+#Insert your code here
+```
+  
+e. Log into [ArcGIS online](https://www.arcgis.com/home/index.html). Upload the zip file from (d) onto your account.
+
+f. Create a [Story Map](https://storymaps.arcgis.com/en/) showing Opportunity in Sacramento.  Have an appropriate title page, have a slide briefly describing the methodology used to create the indices, and have "slides" separately showing maps of the overall index and the subdomain indices with appropriate text explaining what is presented in each map. (6 points)
+
+Submit the URL to your Story Map:
+
+
