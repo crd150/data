@@ -17,9 +17,9 @@ knitr::opts_chunk$set(echo = TRUE)
 #Insert the code from lab that creates the object ca.tracts.z
 ```
 
-1. Let's share our maps with the outside world! You'll be creating a presentation-ready StoryMap of the Regional Opportunity Index (ROI) using ArcGIS online.
+1. Let's share our maps with the outside world! You'll be creating a presentation-ready Story Map of the Regional Opportunity Index (ROI) using ArcGIS online.
 
-a. Using the file ca.tracts.z, which we constructed in lab, create indices for the Economic, Housing, Health/Environment, and Civic Life ROI subdomains.  (2 points)
+a. Using the file ca.tracts.z, which we constructed in lab, create indices for the Housing, Education, Health, and Civic Life ROI subdomains.  (2 points)
 
 ```{r warning=FALSE, message = FALSE}
 #Insert your code here
@@ -31,7 +31,7 @@ b. Create an overall opportunity index. (1 point)
 #Insert your code here
 ```
   
-c. In the lab guide, we created labels (High opportunity, High, ... Low Opportunity) for the Economic Opportunity Index in California neighborhoods.  Create labels for the other subdomains and the overall index.  (1 point)
+c. In the lab guide, we created labels (High opportunity, High, ... Low Opportunity) for the Economic Opportunity Index in California neighborhoods.  Create labels for the other subdomain indices and the overall index.  (1 point)
 
 ```{r warning=FALSE, message = FALSE}
 #Insert your code here
@@ -43,10 +43,12 @@ d. Filter *ca.tracts.z* to keep tracts in Sacramento city. Save this as a shapef
 #Insert your code here
 ```
   
-e. Log into [ArcGIS online](https://www.arcgis.com/home/index.html). Upload the zip file from (d) onto your account.
+e. Log onto [ArcGIS online](https://www.arcgis.com/home/index.html). Create a map showing the overall Opportunity Index in Sacramento.  Save this map.
 
-f. Create a [Story Map](https://storymaps.arcgis.com/en/) showing Opportunity in Sacramento.  Have an appropriate title page, have a slide briefly describing the methodology used to create the indices, and have "slides" separately showing maps of the overall index and the subdomain indices with appropriate text explaining what is presented in each map. (6 points)
+f. Create separate maps for the Economic, Education, Housing, Health, and Civic Life indices. Save these maps.
 
-Submit the URL to your Story Map:
+g. Create a [Story Map](https://storymaps.arcgis.com/en/) showing Opportunity in Sacramento. You can use any Story Map type (e.g. Journal, Tour, Cascade, etc.). At the minimum, you should have an appropriate title page, a "slide"" briefly describing the methodology used to create the indices, and "slides" separately showing maps of the overall index and the subdomain indices with appropriate text explaining what is presented in each map. (6 points)
+
+Save the Story Map, make it public, and submit the Story Map URL. 
 
 
