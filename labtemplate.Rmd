@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message = FALSE)
 ```{r}
 #Type your code here
 
-#Advice: R will not run any code after the # sign.  Text after # are meant to be comments you use to explain what the code is doing. It is good practice to comment each line of code because (1) it helps you deepen your understanding by forcing you to put it in your own words (2) it helps you remember what this code is doing when you look at it again several weeks (month, years, ...) from now and (3) it helps others you share your script with know what your code is doing.
+# R will not run any code after the # sign.  Text after # are meant to be comments you use to explain what the code is doing.
 ```
 
 Insert any explanatory here.  You may, for example, want to explain the results of your code.
