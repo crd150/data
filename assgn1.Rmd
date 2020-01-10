@@ -42,7 +42,7 @@ c. [1] 4 5 5 6 6 6
 #Insert your code here
 ```
 
-3. Find the minimum, mean, median and maximum of the variable *mpg* in the *mtcars* dataset using just one line of code. We have not covered a function that does this yet, so the main point of this question is to get you used to using the resources you have available to you to find out an answer.  Describe the process you used (searched online? use the class textbook?) to find out the answer.
+3. Find the minimum, mean, median and maximum of the variable *mpg* in the *mtcars* dataset using just one line of code. We have not covered a function that does this yet, so the main point of this question is to get you used to using the resources you have available to find out an answer.  Describe the process you used (searched online? use the class textbook?) to find out the answer.
 
 ```{r}
 #Insert your code here
