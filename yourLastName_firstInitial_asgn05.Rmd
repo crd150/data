@@ -1,0 +1,84 @@
+---
+title: "Assignment 5"
+subtitle: CRD 150
+author: YOUR FULL NAME HERE
+date: INSERT DATE HERE
+output: 
+  html_document:
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+# Do not edit this code block/chunk
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message = FALSE)
+```
+
+
+```{r}
+#Load in all necessary packages using the function library()
+```
+
+
+#Question 1
+
+a.
+
+b.
+
+c.
+
+
+#Question 2
+
+a. 
+
+```{r}
+#Insert your code here
+```
+
+b. 
+
+```{r}
+#Insert your code here
+```
+
+c. 
+
+```{r}
+plot(oak.tracts.sp)
+plot(oakb, coordinates(oak.tracts.sp), add=TRUE, col="red")
+```
+
+```{r}
+oakw$weights[[1]]
+```
+
+d.
+
+```{r}
+#Insert your code here
+```
+
+
+#Question 3
+
+a.
+
+```{r}
+#Insert your code here
+```
+
+b.
+
+```{r}
+#Insert your code here
+```
+
+c.
+
+```{r}
+#Insert your code here
+```
+
+
+d.
