@@ -56,8 +56,6 @@ c.
 ```
 
 
-d.
-
 #Question 4
 
 a.
