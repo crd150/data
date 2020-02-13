@@ -35,6 +35,14 @@ b.
 
 c.
 
+d.
+
+
+```{r}
+#Insert your code here
+```
+
+
 #Question 3
 
 a. 
