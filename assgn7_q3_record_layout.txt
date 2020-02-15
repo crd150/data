@@ -1,0 +1,51 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 6 data files detroit.tracts.csv and la.tracts.csv
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2010 Decennial Census
+Units of observations: Census tracts in 2010 boundaries clipped to
+Detroit and Los Angeles City boundaries.
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+tpopr: Total tract population 
+
+nhblk: Tract population - non-Hispanic black    
+
+nhwhite: Tract population - non-Hispanic white  
+
+nhasn: Tract population - non-Hispanic Asian  
+
+hisp: Tract population - Hispanic       
+
+pblk: Tract percent of residents - non-Hispanic black    
+
+pwht: Tract percent of residents - non-Hispanic white
+    
+pasn: Tract percent of residents - non-Hispanic Asian
+
+phisp: Tract percent of residents - Hispanic  
+
+NAME: City
+    
+nhwhitec: City population - non-Hispanic white 
+
+nhasnc: City population - non-Hispanic Asian  
+
+nhblkc: City population - non-Hispanic black  
+
+hispc: City population - Hispanic    
+
+tpopc: Total city population   
+
+pwhtc: City percent of residents - non-Hispanic white   
+
+pasnc: City percent of residents - non-Hispanic Asian    
+
+pblkc: City percent of residents - non-Hispanic black  
+
+phispc: City percent of residents - Hispanic 

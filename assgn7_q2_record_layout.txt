@@ -1,0 +1,68 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 6 data files houstondems.shp and sacdems.shp
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2013-2017 American Community Survey 
+Units of observations: Census tracts in 2017 metropolitan area boundaries
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+nhblk: Tract population - non-Hispanic black    
+
+nhwhite: Tract population - non-Hispanic white  
+
+nhasn: Tract population - non-Hispanic Asian  
+
+hisp: Tract population - Hispanic       
+
+noth: Tract population - non-Hispanic other     
+
+tpop: Total tract population     
+
+pblk: Tract percent of residents - non-Hispanic black    
+
+pwht: Tract percent of residents - non-Hispanic white
+    
+pasn: Tract percent of residents - non-Hispanic Asian
+
+phisp: Tract percent of residents - Hispanic
+
+poth: Tract percent of residents - non-Hispanic other     
+
+ppov: Tract percent poverty     
+
+pu18: Tract percent of residents under 18 years old     
+
+p2234: Tract percent of residents between 22 and 35 years old    
+
+pcol: Tract percent with a college degree     
+
+pfb: Tract percent foreign born      
+
+NAME: Metropolitan area
+    
+nhwhitec: Metropolitan area population - non-Hispanic white 
+
+nhasnc: Metropolitan area population - non-Hispanic Asian  
+
+nhblkc: Metropolitan area population - non-Hispanic black  
+
+nothc: Metropolitan area population - non-Hispanic other   
+
+hispc: Metropolitan area population - Hispanic    
+
+tpopc: Total metropolitan area population   
+
+pwhtc: Metropolitan area percent of residents - non-Hispanic white   
+
+pasnc: Metropolitan area percent of residents - non-Hispanic Asian    
+
+pblkc: Metropolitan area percent of residents - non-Hispanic black  
+
+pothc: Metropolitan area percent of residents - non-Hispanic other   
+
+phispc: Metropolitan area percent of residents - Hispanic 
