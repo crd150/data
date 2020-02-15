@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Codebook for Assignment 6 data files houstondems.shp and sacdems.shp
+Codebook for Assignment 7 data files houstondems.shp and sacdems.shp
 --------------------------------------------------------------------------------
  
 All data were downloaded from the 2013-2017 American Community Survey 

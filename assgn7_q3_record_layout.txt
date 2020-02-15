@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Codebook for Assignment 6 data files detroit.tracts.csv and la.tracts.csv
+Codebook for Assignment 7 data files detroit.tracts.csv and la.tracts.csv
 --------------------------------------------------------------------------------
  
 All data were downloaded from the 2010 Decennial Census
