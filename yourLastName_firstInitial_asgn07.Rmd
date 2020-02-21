@@ -1,0 +1,54 @@
+---
+title: "Assignment 7"
+subtitle: CRD 150
+author: YOUR FULL NAME HERE
+date: INSERT DATE HERE
+output: 
+  html_document:
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+# Do not edit this code block/chunk
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message = FALSE)
+```
+
+
+```{r}
+#Load in all necessary packages using the function library()
+```
+
+
+#Question 1
+
+a.
+
+```{r}
+#Insert your code here
+```
+
+
+b.
+
+```{r}
+#Insert your code here
+```
+
+
+
+#Question 2
+
+a.
+
+```{r}
+#Insert your code here
+```
+
+b.
+
+```{r}
+#Insert your code here
+```
+
+c.
+
