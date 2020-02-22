@@ -1,415 +1,415 @@
-﻿GEOID,countyn,countyid,economicc,environc,educc,composite,category,
-06017030200,El Dorado,06017,-0.499,0.467,-0.371,-0.134,Moderate Resource,
-06017030301,El Dorado,06017,-0.782,0.472,-0.371,-0.227,Moderate Resource,
-06017030302,El Dorado,06017,-0.649,0.416,-0.371,-0.201,Moderate Resource,
-06017030401,El Dorado,06017,-0.114,0.363,-0.371,-0.041,Moderate Resource,
-06017030402,El Dorado,06017,-0.912,0.541,-0.371,-0.247,Low Resource,
-06017030504,El Dorado,06017,0.082,0.593,-0.371,0.101,High Resource,
-06017030701,El Dorado,06017,0.66,0.337,1.826,0.941,Highest Resource,
-06017030704,El Dorado,06017,0.326,0.075,1.193,0.531,Highest Resource,
-06017030706,El Dorado,06017,0.839,0.178,1.798,0.938,Highest Resource,
-06017030709,El Dorado,06017,0.805,0.272,1.826,0.968,Highest Resource,
-06017030710,El Dorado,06017,0.619,0.274,1.822,0.905,Highest Resource,
-06017030808,El Dorado,06017,-0.096,0.292,0.961,0.386,High Resource,
-06017031600,El Dorado,06017,-0.537,0.467,-0.371,-0.147,Moderate Resource,
-06017031700,El Dorado,06017,1.159,0.233,1.826,1.073,Highest Resource,
-06017031800,El Dorado,06017,0.695,0.261,1.698,0.885,Highest Resource,
-06017990000,El Dorado,06017,NA,NA,NA,NA,NA,
-06061020601,Placer,06061,0.873,0.322,1.313,0.836,Highest Resource,
-06061020604,Placer,06061,0.912,0.306,1.635,0.951,Highest Resource,
-06061020605,Placer,06061,0.954,0.252,1.63,0.945,Highest Resource,
-06061020606,Placer,06061,0.998,0.36,1.617,0.992,Highest Resource,
-06061020710,Placer,06061,0.579,0.383,1.259,0.741,Highest Resource,
-06061020711,Placer,06061,0.446,0.307,1.259,0.671,Highest Resource,
-06061020712,Placer,06061,-0.069,0.114,0.525,0.19,High Resource,
-06061020713,Placer,06061,-0.23,0.028,0.361,0.053,Moderate Resource,
-06061020714,Placer,06061,0.515,-0.076,0.361,0.267,High Resource,
-06061020715,Placer,06061,0.179,0.33,0.733,0.414,High Resource,
-06061020717,Placer,06061,0.728,0.101,1.574,0.801,Highest Resource,
-06061020805,Placer,06061,0.039,-0.119,0.019,-0.02,Moderate Resource,
-06061020806,Placer,06061,-0.023,-0.293,0.362,0.015,Moderate Resource,
-06061020901,Placer,06061,-0.799,-0.154,0.019,-0.311,Low Resource,
-06061020908,Placer,06061,-0.474,-0.257,0.525,-0.068,Moderate Resource,
-06061021003,Placer,06061,-0.137,-0.291,0.462,0.011,Moderate Resource,
-06061021034,Placer,06061,0.578,0.092,1.217,0.629,Highest Resource,
-06061021035,Placer,06061,0.515,0.415,0.769,0.566,Highest Resource,
-06061021037,Placer,06061,0.281,0.345,1.071,0.566,Highest Resource,
-06061021038,Placer,06061,0.413,0.37,1.071,0.618,Highest Resource,
-06061021039,Placer,06061,0.557,0.344,1.497,0.799,Highest Resource,
-06061021040,Placer,06061,0.332,0.319,1.497,0.716,Highest Resource,
-06061021043,Placer,06061,0.647,0.164,1.305,0.706,Highest Resource,
-06061021044,Placer,06061,0.542,0.317,1.497,0.785,Highest Resource,
-06061021045,Placer,06061,-0.174,0.129,0.525,0.16,High Resource,
-06061021046,Placer,06061,0.082,0.215,0.525,0.274,High Resource,
-06061021103,Placer,06061,-0.356,0.234,1.235,0.371,High Resource,
-06061021106,Placer,06061,0.288,0.4,1.094,0.594,Highest Resource,
-06061021108,Placer,06061,-0.458,0.124,1.235,0.301,High Resource,
-06061021109,Placer,06061,0.617,0.203,1.26,0.693,Highest Resource,
-06061021122,Placer,06061,0.667,0.393,1.721,0.927,Highest Resource,
-06061021123,Placer,06061,0.651,0.427,1.72,0.933,Highest Resource,
-06061021128,Placer,06061,0.186,0.342,0.911,0.48,High Resource,
-06061021129,Placer,06061,-0.194,0.247,0.911,0.321,High Resource,
-06061021130,Placer,06061,0.22,0.305,1.389,0.638,Highest Resource,
-06061021131,Placer,06061,0.207,0.303,1.153,0.554,Highest Resource,
-06061021309,Placer,06061,0.493,0.318,1.511,0.774,Highest Resource,
-06061021322,Placer,06061,0.232,-0.095,1.54,0.559,Highest Resource,
-06061021401,Placer,06061,-0.558,0.148,0.199,-0.07,Moderate Resource,
-06061021403,Placer,06061,-0.687,0.289,0.396,-0.001,Moderate Resource,
-06061022400,Placer,06061,0.71,0.008,1.124,0.614,Highest Resource,
-06061022500,Placer,06061,0.695,0.194,0.384,0.424,High Resource,
-06061022600,Placer,06061,0.156,0.125,1.217,0.499,Highest Resource,
-06061022800,Placer,06061,0.47,0.168,1.285,0.641,Highest Resource,
-06061022900,Placer,06061,0.409,0.271,1.585,0.755,Highest Resource,
-06061023000,Placer,06061,0.515,0.235,1.836,0.862,Highest Resource,
-06061023100,Placer,06061,0.752,0.307,1.408,0.822,Highest Resource,
-06061023200,Placer,06061,0.25,0.321,0.396,0.322,High Resource,
-06061023300,Placer,06061,0.163,0.303,0.396,0.287,High Resource,
-06061023400,Placer,06061,-0.123,0.357,-0.246,-0.004,Moderate Resource,
-06061023500,Placer,06061,0.57,0.271,1.09,0.644,Highest Resource,
-06061023600,Placer,06061,0.083,0.274,1.088,0.482,Highest Resource,
-06061023700,Placer,06061,0.027,0.255,0.383,0.222,High Resource,
-06061023800,Placer,06061,0.279,-0.116,0.633,0.265,High Resource,
-06061023900,Placer,06061,0.076,0.373,-0.155,0.098,High Resource,
-06061990000,Placer,06061,NA,NA,NA,NA,NA,
-06067000100,Sacramento,06067,1.392,0.081,0.779,0.751,Highest Resource,
-06067000200,Sacramento,06067,1.372,0.168,0.268,0.603,Highest Resource,
-06067000300,Sacramento,06067,1.51,-0.04,0.268,0.579,Highest Resource,
-06067000400,Sacramento,06067,0.957,-0.823,0.16,0.098,High Resource,
-06067000500,Sacramento,06067,0.627,-1.947,-0.097,-0.472,Low Resource,
-06067000600,Sacramento,06067,-0.112,-0.941,-0.097,NA,High Segregation & Poverty,
-06067000700,Sacramento,06067,NA,NA,NA,NA,NA,
-06067000800,Sacramento,06067,0.972,-0.542,-0.681,-0.084,Moderate Resource,
-06067001101,Sacramento,06067,-0.03,-1.137,-0.097,-0.421,Low Resource,
-06067001200,Sacramento,06067,0.81,-0.642,-0.097,0.024,Moderate Resource,
-06067001300,Sacramento,06067,0.99,-0.278,-0.389,0.107,High Resource,
-06067001400,Sacramento,06067,0.472,-0.285,0.16,0.116,High Resource,
-06067001500,Sacramento,06067,1.511,-0.117,0.017,0.47,High Resource,
-06067001600,Sacramento,06067,1.271,-0.212,0.719,0.593,Highest Resource,
-06067001700,Sacramento,06067,0.275,-0.241,-0.021,0.005,Moderate Resource,
-06067001800,Sacramento,06067,0.124,-0.132,-0.96,-0.323,Low Resource,
-06067001900,Sacramento,06067,0.666,-0.392,-0.246,0.01,Moderate Resource,
-06067002000,Sacramento,06067,0.163,-0.66,0.413,-0.028,Moderate Resource,
-06067002100,Sacramento,06067,0.536,-0.764,0.093,-0.045,Moderate Resource,
-06067002200,Sacramento,06067,-0.131,-0.803,0.093,NA,High Segregation & Poverty,
-06067002300,Sacramento,06067,1.33,-0.228,0.093,0.398,High Resource,
-06067002400,Sacramento,06067,1.57,-0.322,0.333,0.527,Highest Resource,
-06067002500,Sacramento,06067,1.462,0.034,-1.237,0.087,Moderate Resource,
-06067002600,Sacramento,06067,1.059,-0.013,-1.237,-0.064,Moderate Resource,
-06067002700,Sacramento,06067,-0.373,-0.117,-1.237,-0.575,Low Resource,
-06067002800,Sacramento,06067,-0.666,0.225,-1.133,NA,High Segregation & Poverty,
-06067002900,Sacramento,06067,0.194,0.11,-1.165,-0.287,Low Resource,
-06067003000,Sacramento,06067,-0.053,-0.039,-1.317,-0.47,Low Resource,
-06067003101,Sacramento,06067,-0.343,0.058,-0.83,-0.372,Low Resource,
-06067003102,Sacramento,06067,-0.496,0.259,-1.164,-0.467,Low Resource,
-06067003202,Sacramento,06067,-0.899,0.14,-1.342,NA,High Segregation & Poverty,
-06067003203,Sacramento,06067,-0.913,0.174,-0.625,NA,High Segregation & Poverty,
-06067003204,Sacramento,06067,-1.112,0.057,-0.625,NA,High Segregation & Poverty,
-06067003300,Sacramento,06067,0.963,0.203,-0.043,0.374,High Resource,
-06067003400,Sacramento,06067,0.119,0.085,-0.375,-0.057,Moderate Resource,
-06067003501,Sacramento,06067,-0.218,0.059,-0.515,-0.224,Moderate Resource,
-06067003502,Sacramento,06067,0.068,0.09,-0.043,0.038,Moderate Resource,
-06067003600,Sacramento,06067,-0.536,0.121,-1.329,-0.581,Low Resource,
-06067003700,Sacramento,06067,-1.089,-0.098,-1.416,NA,High Segregation & Poverty,
-06067003800,Sacramento,06067,-0.545,0.234,-1.329,-0.547,Low Resource,
-06067003900,Sacramento,06067,0.849,0.066,-0.268,0.215,High Resource,
-06067004001,Sacramento,06067,0.346,0.007,-0.344,0.003,Moderate Resource,
-06067004004,Sacramento,06067,0.671,0.362,-0.245,0.262,High Resource,
-06067004005,Sacramento,06067,0.294,0.282,-0.104,0.157,High Resource,
-06067004006,Sacramento,06067,0.307,0.036,-0.622,-0.093,Moderate Resource,
-06067004008,Sacramento,06067,0.613,0.347,-0.557,0.134,High Resource,
-06067004009,Sacramento,06067,0.602,0.285,-0.557,0.11,High Resource,
-06067004010,Sacramento,06067,0.18,0.164,-0.463,-0.04,Moderate Resource,
-06067004011,Sacramento,06067,0.949,0.274,-0.557,0.222,High Resource,
-06067004012,Sacramento,06067,0.847,0.166,-0.557,0.152,High Resource,
-06067004100,Sacramento,06067,-0.979,0.117,-1.494,NA,High Segregation & Poverty,
-06067004201,Sacramento,06067,-0.649,0.129,-1.118,-0.546,Low Resource,
-06067004202,Sacramento,06067,-0.633,0.092,-1.351,-0.631,Low Resource,
-06067004203,Sacramento,06067,-1.153,0.181,-1.474,NA,High Segregation & Poverty,
-06067004300,Sacramento,06067,-0.909,-0.034,-1.266,-0.736,Low Resource,
-06067004401,Sacramento,06067,-0.861,0.017,-1.564,-0.803,Low Resource,
-06067004402,Sacramento,06067,-1.015,0.049,-1.253,NA,High Segregation & Poverty,
-06067004501,Sacramento,06067,-0.619,-0.205,-1.401,NA,High Segregation & Poverty,
-06067004502,Sacramento,06067,-1.146,-0.298,-1.416,NA,High Segregation & Poverty,
-06067004601,Sacramento,06067,-0.893,-0.147,-1.507,NA,High Segregation & Poverty,
-06067004602,Sacramento,06067,-0.954,-0.35,-1.401,NA,High Segregation & Poverty,
-06067004701,Sacramento,06067,-0.861,-0.226,-1.157,NA,High Segregation & Poverty,
-06067004702,Sacramento,06067,-0.872,-0.413,-1.416,NA,High Segregation & Poverty,
-06067004801,Sacramento,06067,-0.724,-0.076,-0.847,-0.549,Low Resource,
-06067004802,Sacramento,06067,-0.93,-0.17,-0.691,NA,High Segregation & Poverty,
-06067004903,Sacramento,06067,-1.042,0.055,-1.272,NA,High Segregation & Poverty,
-06067004904,Sacramento,06067,-0.713,-0.155,-1.047,-0.638,Low Resource,
-06067004905,Sacramento,06067,-0.632,0.072,-0.652,-0.404,Low Resource,
-06067004906,Sacramento,06067,-0.802,0.236,-0.746,-0.437,Low Resource,
-06067005001,Sacramento,06067,-0.964,-0.145,-0.74,NA,High Segregation & Poverty,
-06067005002,Sacramento,06067,-1.123,-0.238,-0.736,NA,High Segregation & Poverty,
-06067005101,Sacramento,06067,-0.934,-0.091,-0.74,NA,High Segregation & Poverty,
-06067005102,Sacramento,06067,-0.975,-0.894,-0.74,-0.87,Low Resource,
-06067005201,Sacramento,06067,-0.53,-0.052,0.647,0.022,Moderate Resource,
-06067005202,Sacramento,06067,0.735,-0.267,-0.332,0.045,Moderate Resource,
-06067005204,Sacramento,06067,0.634,-0.265,-0.332,0.012,Moderate Resource,
-06067005205,Sacramento,06067,-0.475,-1.622,-0.443,-0.847,Low Resource,
-06067005301,Sacramento,06067,-1.408,-1.683,-0.955,NA,High Segregation & Poverty,
-06067005402,Sacramento,06067,0.388,-0.147,-0.608,-0.122,Moderate Resource,
-06067005403,Sacramento,06067,0.692,0.079,0.767,0.512,Highest Resource,
-06067005404,Sacramento,06067,1.411,-0.161,-0.277,0.324,High Resource,
-06067005502,Sacramento,06067,-0.67,-0.172,-1.268,NA,High Segregation & Poverty,
-06067005505,Sacramento,06067,-0.687,-0.091,-1.192,NA,High Segregation & Poverty,
-06067005506,Sacramento,06067,-0.349,-0.126,-1.179,NA,High Segregation & Poverty,
-06067005508,Sacramento,06067,0.259,-0.181,-0.72,-0.214,Moderate Resource,
-06067005509,Sacramento,06067,-0.246,-0.164,-1.179,-0.53,Low Resource,
-06067005510,Sacramento,06067,-0.064,-0.203,-1.179,-0.482,Low Resource,
-06067005601,Sacramento,06067,-0.453,-0.152,-1.124,-0.577,Low Resource,
-06067005605,Sacramento,06067,-0.037,-0.046,-0.929,NA,High Segregation & Poverty,
-06067005606,Sacramento,06067,0.488,-0.192,-0.67,-0.125,Moderate Resource,
-06067005701,Sacramento,06067,0.842,-0.122,0.221,0.314,High Resource,
-06067005702,Sacramento,06067,1.539,-0.172,-0.401,0.322,High Resource,
-06067005801,Sacramento,06067,0.747,-0.001,-0.521,0.075,Moderate Resource,
-06067005803,Sacramento,06067,1.393,-0.115,0.395,0.558,Highest Resource,
-06067005804,Sacramento,06067,1.487,0.065,-0.044,0.503,Highest Resource,
-06067005901,Sacramento,06067,0.403,-0.134,-1.023,-0.252,Low Resource,
-06067005903,Sacramento,06067,-0.061,0.042,-0.441,-0.153,Moderate Resource,
-06067005904,Sacramento,06067,0.243,-0.073,-0.143,0.009,Moderate Resource,
-06067006002,Sacramento,06067,-0.126,-0.062,-0.122,-0.103,Moderate Resource,
-06067006003,Sacramento,06067,-0.276,-0.204,-0.361,-0.28,Low Resource,
-06067006004,Sacramento,06067,0.615,-0.17,-0.122,0.108,High Resource,
-06067006101,Sacramento,06067,-0.125,-0.264,-0.661,-0.35,Low Resource,
-06067006102,Sacramento,06067,-0.431,-0.151,-1.048,-0.543,Low Resource,
-06067006201,Sacramento,06067,-0.676,-0.208,-1.308,NA,High Segregation & Poverty,
-06067006202,Sacramento,06067,-0.969,-0.274,-1.271,NA,High Segregation & Poverty,
-06067006300,Sacramento,06067,-0.995,-0.094,-1.322,NA,High Segregation & Poverty,
-06067006400,Sacramento,06067,-0.914,-0.271,-0.992,-0.726,Low Resource,
-06067006500,Sacramento,06067,-1.047,0.051,-1.325,NA,High Segregation & Poverty,
-06067006600,Sacramento,06067,-1.142,0.081,-1.164,NA,High Segregation & Poverty,
-06067006701,Sacramento,06067,-0.561,-0.062,-1.612,-0.745,Low Resource,
-06067006702,Sacramento,06067,-1.103,-0.129,-1.348,NA,High Segregation & Poverty,
-06067006800,Sacramento,06067,-0.696,0.043,-1.103,NA,High Segregation & Poverty,
-06067006900,Sacramento,06067,-0.378,-0.283,-1.012,NA,High Segregation & Poverty,
-06067007001,Sacramento,06067,-0.539,-0.168,-0.941,NA,High Segregation & Poverty,
-06067007004,Sacramento,06067,-0.377,-0.167,-0.559,-0.368,Low Resource,
-06067007007,Sacramento,06067,-0.464,-0.224,-0.857,-0.515,Low Resource,
-06067007010,Sacramento,06067,0.655,-0.204,-0.027,0.141,High Resource,
-06067007011,Sacramento,06067,-0.11,-0.215,-0.476,-0.267,Low Resource,
-06067007012,Sacramento,06067,-0.247,-0.055,-0.476,-0.259,Low Resource,
-06067007013,Sacramento,06067,-0.206,0.152,-0.397,-0.15,Moderate Resource,
-06067007014,Sacramento,06067,-0.349,0.018,-0.686,-0.339,Low Resource,
-06067007015,Sacramento,06067,0.334,0.198,0.238,0.257,High Resource,
-06067007016,Sacramento,06067,0.127,0.032,-0.061,0.033,Moderate Resource,
-06067007017,Sacramento,06067,0.586,-0.301,0.169,0.151,High Resource,
-06067007018,Sacramento,06067,0.153,-0.011,-0.033,0.036,Moderate Resource,
-06067007019,Sacramento,06067,-0.667,-0.034,0.861,NA,High Segregation & Poverty,
-06067007020,Sacramento,06067,0.716,-0.236,-0.027,0.151,High Resource,
-06067007101,Sacramento,06067,NA,NA,NA,NA,NA,
-06067007102,Sacramento,06067,0.307,0.338,0.394,0.346,High Resource,
-06067007103,Sacramento,06067,0.408,0.433,0.418,0.42,High Resource,
-06067007104,Sacramento,06067,0.815,0.468,0.655,0.646,Highest Resource,
-06067007105,Sacramento,06067,0.163,0.362,-0.002,0.174,High Resource,
-06067007106,Sacramento,06067,0.548,0.323,0.861,0.578,Highest Resource,
-06067007107,Sacramento,06067,0.922,0.222,-0.097,0.349,High Resource,
-06067007202,Sacramento,06067,-0.542,0.058,-0.487,-0.324,Low Resource,
-06067007204,Sacramento,06067,-0.317,0.167,-1.006,-0.385,Low Resource,
-06067007206,Sacramento,06067,-0.352,0.338,-0.646,-0.22,Moderate Resource,
-06067007207,Sacramento,06067,-0.541,0.304,-0.408,-0.215,Moderate Resource,
-06067007208,Sacramento,06067,-0.49,0.318,-0.66,-0.277,Low Resource,
-06067007209,Sacramento,06067,-0.846,0.354,-0.66,-0.384,Low Resource,
-06067007301,Sacramento,06067,-0.842,-1.647,-0.332,NA,High Segregation & Poverty,
-06067007402,Sacramento,06067,-0.894,0.016,-1.073,-0.65,Low Resource,
-06067007403,Sacramento,06067,-0.967,-0.135,-1.112,-0.738,Low Resource,
-06067007406,Sacramento,06067,-0.881,0.022,-0.346,-0.402,Low Resource,
-06067007413,Sacramento,06067,-0.859,-1.19,-0.596,-0.882,Low Resource,
-06067007414,Sacramento,06067,-0.637,0.139,-1.01,-0.503,Low Resource,
-06067007415,Sacramento,06067,-0.36,-0.469,-0.954,-0.594,Low Resource,
-06067007416,Sacramento,06067,-0.677,0.037,-1.036,-0.559,Low Resource,
-06067007417,Sacramento,06067,-0.381,0.28,-0.232,-0.111,Moderate Resource,
-06067007421,Sacramento,06067,0.203,0.081,-0.228,0.019,Moderate Resource,
-06067007422,Sacramento,06067,-0.766,0.041,-0.787,-0.504,Low Resource,
-06067007423,Sacramento,06067,-0.975,0.109,-1.253,NA,High Segregation & Poverty,
-06067007424,Sacramento,06067,-0.985,-0.627,-1.253,NA,High Segregation & Poverty,
-06067007426,Sacramento,06067,-0.647,0.147,-0.232,-0.244,Low Resource,
-06067007427,Sacramento,06067,-0.474,0.132,-0.161,-0.168,Moderate Resource,
-06067007428,Sacramento,06067,-0.221,0.059,-0.629,-0.264,Low Resource,
-06067007429,Sacramento,06067,-0.731,0.222,-0.462,-0.324,Low Resource,
-06067007430,Sacramento,06067,-0.451,0.194,-0.162,-0.14,Moderate Resource,
-06067007431,Sacramento,06067,-0.473,0.274,-0.122,-0.107,Moderate Resource,
-06067007432,Sacramento,06067,-0.153,0.22,0.074,0.047,Moderate Resource,
-06067007433,Sacramento,06067,-0.197,0.048,0.028,-0.041,Moderate Resource,
-06067007501,Sacramento,06067,-0.699,-0.344,-0.961,-0.668,Low Resource,
-06067007503,Sacramento,06067,-0.47,-0.232,-1.124,-0.609,Low Resource,
-06067007504,Sacramento,06067,-0.294,-0.45,-1.174,-0.639,Low Resource,
-06067007601,Sacramento,06067,0.103,-0.098,-0.317,-0.104,Moderate Resource,
-06067007602,Sacramento,06067,-0.288,-0.077,-0.389,-0.251,Low Resource,
-06067007701,Sacramento,06067,-0.17,0.097,-0.244,-0.106,Moderate Resource,
-06067007702,Sacramento,06067,0.707,0.047,-0.419,0.111,High Resource,
-06067007801,Sacramento,06067,-0.152,-0.129,0.026,-0.085,Moderate Resource,
-06067007802,Sacramento,06067,0.21,-0.07,-0.104,0.012,Moderate Resource,
-06067007903,Sacramento,06067,0.246,-0.146,-0.856,-0.252,Low Resource,
-06067007904,Sacramento,06067,0.372,0.069,0.263,0.235,High Resource,
-06067007905,Sacramento,06067,0.296,-0.016,-0.123,0.053,Moderate Resource,
-06067007906,Sacramento,06067,0.296,0.123,-0.886,-0.156,Moderate Resource,
-06067008005,Sacramento,06067,0.767,-0.259,0.567,0.359,High Resource,
-06067008006,Sacramento,06067,0.387,-0.101,0.12,0.135,High Resource,
-06067008007,Sacramento,06067,0.243,0.017,-0.733,-0.158,Moderate Resource,
-06067008008,Sacramento,06067,0.39,0.196,-0.733,-0.049,Moderate Resource,
-06067008009,Sacramento,06067,0.426,-0.069,0.107,0.155,High Resource,
-06067008010,Sacramento,06067,0.374,-0.1,0.263,0.179,High Resource,
-06067008111,Sacramento,06067,-0.307,-0.019,-0.689,-0.338,Low Resource,
-06067008113,Sacramento,06067,-0.341,-0.21,-0.718,-0.423,Low Resource,
-06067008117,Sacramento,06067,-0.198,-0.126,-0.856,-0.393,Low Resource,
-06067008119,Sacramento,06067,-0.191,-0.056,-0.532,-0.26,Low Resource,
-06067008120,Sacramento,06067,-0.164,0.159,-0.555,-0.186,Moderate Resource,
-06067008122,Sacramento,06067,0.282,0.12,-0.84,-0.146,Moderate Resource,
-06067008124,Sacramento,06067,-0.04,0.235,-0.531,-0.112,Moderate Resource,
-06067008125,Sacramento,06067,-0.244,0.294,-0.384,-0.111,Moderate Resource,
-06067008127,Sacramento,06067,-0.55,0.054,-0.718,-0.405,Low Resource,
-06067008128,Sacramento,06067,-0.505,-0.292,-0.718,-0.505,Low Resource,
-06067008129,Sacramento,06067,-0.255,-0.17,-0.704,-0.376,Low Resource,
-06067008130,Sacramento,06067,-0.365,-0.093,-0.658,-0.372,Low Resource,
-06067008131,Sacramento,06067,-0.274,-0.308,-0.695,-0.426,Low Resource,
-06067008132,Sacramento,06067,-0.257,-0.331,-0.623,-0.404,Low Resource,
-06067008133,Sacramento,06067,-0.558,-0.116,-0.987,-0.554,Low Resource,
-06067008134,Sacramento,06067,-0.102,-0.165,-0.948,-0.405,Low Resource,
-06067008135,Sacramento,06067,-0.195,-0.064,-0.305,-0.188,Moderate Resource,
-06067008136,Sacramento,06067,0.15,0.087,-0.818,-0.194,Moderate Resource,
-06067008137,Sacramento,06067,-0.017,0.04,-0.733,-0.237,Moderate Resource,
-06067008138,Sacramento,06067,-0.15,0.022,-0.733,-0.287,Low Resource,
-06067008139,Sacramento,06067,-0.667,0.098,-1.213,-0.594,Low Resource,
-06067008140,Sacramento,06067,-0.232,0.156,-0.595,-0.224,Moderate Resource,
-06067008141,Sacramento,06067,-0.671,0.116,-0.733,-0.429,Low Resource,
-06067008142,Sacramento,06067,-0.313,0.157,-0.779,-0.311,Low Resource,
-06067008143,Sacramento,06067,-0.179,0.139,-0.779,-0.273,Low Resource,
-06067008144,Sacramento,06067,0.102,0.169,-0.555,-0.094,Moderate Resource,
-06067008145,Sacramento,06067,-0.032,0.244,-0.201,0.004,Moderate Resource,
-06067008203,Sacramento,06067,-0.102,0.228,0.167,0.098,High Resource,
-06067008204,Sacramento,06067,-0.028,0.13,0.59,0.231,High Resource,
-06067008206,Sacramento,06067,0.238,0.127,0.333,0.233,High Resource,
-06067008207,Sacramento,06067,0.211,0.103,0.401,0.238,High Resource,
-06067008208,Sacramento,06067,-0.162,0.115,0.597,0.183,High Resource,
-06067008209,Sacramento,06067,0.571,0.226,0.529,0.442,High Resource,
-06067008210,Sacramento,06067,0.491,0.252,1.036,0.593,Highest Resource,
-06067008211,Sacramento,06067,0.132,-0.197,0.116,0.017,Moderate Resource,
-06067008402,Sacramento,06067,0.067,0.028,1.31,0.468,High Resource,
-06067008403,Sacramento,06067,0.529,0.233,1.418,0.727,Highest Resource,
-06067008404,Sacramento,06067,0.095,-0.012,1.09,0.391,High Resource,
-06067008501,Sacramento,06067,0.855,0.099,1.573,0.842,Highest Resource,
-06067008504,Sacramento,06067,0.7,-0.306,1.283,0.559,Highest Resource,
-06067008505,Sacramento,06067,0.738,0.266,1.466,0.824,Highest Resource,
-06067008506,Sacramento,06067,0.364,0.246,1.329,0.646,Highest Resource,
-06067008507,Sacramento,06067,0.644,0.108,1.702,0.818,Highest Resource,
-06067008508,Sacramento,06067,0.896,-0.323,1.684,0.752,Highest Resource,
-06067008509,Sacramento,06067,1.009,0.294,1.573,0.959,Highest Resource,
-06067008510,Sacramento,06067,0.65,0.253,1.584,0.829,Highest Resource,
-06067008512,Sacramento,06067,1.082,0.27,1.729,1.027,Highest Resource,
-06067008513,Sacramento,06067,0.89,0.074,1.717,0.894,Highest Resource,
-06067008702,Sacramento,06067,1.201,-0.662,0.107,0.215,High Resource,
-06067008703,Sacramento,06067,0.625,-1.524,0.018,-0.294,Low Resource,
-06067008704,Sacramento,06067,0.221,0.052,1.199,0.491,Highest Resource,
-06067008705,Sacramento,06067,0.407,-1.524,1.2,0.028,Moderate Resource,
-06067008801,Sacramento,06067,-0.172,-0.563,0.702,-0.011,Moderate Resource,
-06067008905,Sacramento,06067,-0.172,-0.164,-0.159,-0.165,Moderate Resource,
-06067008907,Sacramento,06067,-0.718,-0.192,-0.076,-0.328,Low Resource,
-06067008908,Sacramento,06067,-0.496,-0.249,-0.13,-0.292,Low Resource,
-06067008909,Sacramento,06067,0.002,-0.133,0.041,-0.03,Moderate Resource,
-06067008910,Sacramento,06067,-0.326,-0.129,-0.404,-0.286,Low Resource,
-06067008911,Sacramento,06067,-0.606,0.113,-0.404,NA,High Segregation & Poverty,
-06067008912,Sacramento,06067,0.108,-0.341,0.553,0.107,High Resource,
-06067008913,Sacramento,06067,-0.381,-0.211,-0.003,-0.198,Moderate Resource,
-06067009004,Sacramento,06067,-0.411,-0.34,-1.037,-0.596,Low Resource,
-06067009005,Sacramento,06067,-0.429,-0.263,-1.016,-0.57,Low Resource,
-06067009006,Sacramento,06067,-0.841,-0.577,-1.135,-0.851,Low Resource,
-06067009007,Sacramento,06067,-0.479,-0.532,-0.421,-0.477,Low Resource,
-06067009008,Sacramento,06067,-0.682,-0.324,-0.314,-0.44,Low Resource,
-06067009010,Sacramento,06067,0.318,-0.272,-0.166,-0.04,Moderate Resource,
-06067009011,Sacramento,06067,0.572,-0.411,-0.166,-0.002,Moderate Resource,
-06067009103,Sacramento,06067,-0.139,-0.076,-0.589,-0.268,Low Resource,
-06067009105,Sacramento,06067,0.052,-0.131,-0.644,-0.241,Moderate Resource,
-06067009106,Sacramento,06067,0.28,-0.218,-0.804,-0.248,Low Resource,
-06067009107,Sacramento,06067,0.284,-0.365,-0.737,-0.273,Low Resource,
-06067009108,Sacramento,06067,0.186,0.16,-0.589,-0.081,Moderate Resource,
-06067009109,Sacramento,06067,0.108,-0.051,-0.624,-0.189,Moderate Resource,
-06067009110,Sacramento,06067,-0.785,-0.142,-0.644,NA,High Segregation & Poverty,
-06067009111,Sacramento,06067,0.324,0.131,-0.636,-0.06,Moderate Resource,
-06067009112,Sacramento,06067,-0.033,0.042,-0.572,-0.188,Moderate Resource,
-06067009201,Sacramento,06067,-0.356,-1.703,0.557,-0.501,Low Resource,
-06067009307,Sacramento,06067,0.046,0.217,0.607,0.29,High Resource,
-06067009308,Sacramento,06067,-0.425,0.06,0.496,0.044,Moderate Resource,
-06067009309,Sacramento,06067,-0.353,0.155,0.397,0.066,Moderate Resource,
-06067009310,Sacramento,06067,-0.175,0.184,0.508,0.172,High Resource,
-06067009311,Sacramento,06067,-0.295,0.153,-0.015,-0.052,Moderate Resource,
-06067009312,Sacramento,06067,-0.036,0.262,0.105,0.11,High Resource,
-06067009314,Sacramento,06067,-0.189,0.106,0.349,0.089,Moderate Resource,
-06067009316,Sacramento,06067,-0.61,-0.167,-0.15,-0.309,Low Resource,
-06067009317,Sacramento,06067,-0.147,0.121,-0.15,-0.059,Moderate Resource,
-06067009318,Sacramento,06067,-0.509,-0.171,-0.501,-0.394,Low Resource,
-06067009319,Sacramento,06067,-0.678,-0.078,-0.33,-0.362,Low Resource,
-06067009320,Sacramento,06067,-0.659,0.071,-0.468,-0.352,Low Resource,
-06067009321,Sacramento,06067,-0.478,0.206,-0.33,-0.201,Moderate Resource,
-06067009322,Sacramento,06067,-0.181,0.071,0.591,0.16,High Resource,
-06067009323,Sacramento,06067,0.237,-0.071,0.642,0.269,High Resource,
-06067009324,Sacramento,06067,0.784,0.25,1.195,0.743,Highest Resource,
-06067009325,Sacramento,06067,0.534,0.15,1.099,0.594,Highest Resource,
-06067009326,Sacramento,06067,0.225,0.291,0.898,0.471,High Resource,
-06067009328,Sacramento,06067,0.124,0.317,0.696,0.379,High Resource,
-06067009329,Sacramento,06067,-0.272,0.357,0.201,0.096,High Resource,
-06067009330,Sacramento,06067,0.352,0.333,0.557,0.414,High Resource,
-06067009331,Sacramento,06067,0.332,0.297,0.816,0.482,Highest Resource,
-06067009332,Sacramento,06067,0.177,0.309,0.795,0.427,High Resource,
-06067009601,Sacramento,06067,-0.575,-0.151,-0.829,-0.518,Low Resource,
-06067009606,Sacramento,06067,-0.9,0.005,-0.529,NA,High Segregation & Poverty,
-06067009608,Sacramento,06067,-0.457,-0.074,0.393,-0.046,Moderate Resource,
-06067009609,Sacramento,06067,-0.487,0.284,-0.382,-0.195,Moderate Resource,
-06067009610,Sacramento,06067,-0.745,0.155,-0.531,-0.374,Low Resource,
-06067009611,Sacramento,06067,-0.42,0.003,0.338,-0.026,Moderate Resource,
-06067009612,Sacramento,06067,0.027,0.207,0.335,0.189,High Resource,
-06067009614,Sacramento,06067,-0.161,0.106,0.093,0.012,Moderate Resource,
-06067009615,Sacramento,06067,-0.069,0.277,0.262,0.157,High Resource,
-06067009616,Sacramento,06067,-0.202,0.197,0.256,0.084,Moderate Resource,
-06067009617,Sacramento,06067,0.734,0.208,0.262,0.401,High Resource,
-06067009618,Sacramento,06067,-0.207,0.138,0.495,0.142,High Resource,
-06067009619,Sacramento,06067,0.304,0.183,0.706,0.398,High Resource,
-06067009622,Sacramento,06067,0.348,0.214,1.089,0.55,Highest Resource,
-06067009630,Sacramento,06067,0.003,0.509,0.93,0.481,Highest Resource,
-06067009632,Sacramento,06067,0.263,0.301,1.025,0.53,Highest Resource,
-06067009633,Sacramento,06067,-0.606,0.204,-0.531,-0.311,Low Resource,
-06067009634,Sacramento,06067,-0.911,0.226,-0.652,NA,High Segregation & Poverty,
-06067009635,Sacramento,06067,0.354,0.283,1.089,0.575,Highest Resource,
-06067009636,Sacramento,06067,0.164,0.362,1.042,0.523,Highest Resource,
-06067009637,Sacramento,06067,0.226,0.481,0.973,0.56,Highest Resource,
-06067009639,Sacramento,06067,-0.515,-0.003,0.444,-0.025,Moderate Resource,
-06067988300,Sacramento,06067,NA,NA,NA,NA,NA,
-06113010101,Yolo,06113,-0.691,-0.453,-0.947,-0.697,Low Resource,
-06113010102,Yolo,06113,-0.676,-0.905,-0.946,-0.842,Low Resource,
-06113010201,Yolo,06113,-0.025,-1.142,-0.393,-0.52,Low Resource,
-06113010203,Yolo,06113,-1.038,-0.683,-0.684,NA,High Segregation & Poverty,
-06113010204,Yolo,06113,-0.483,-0.465,-0.684,-0.544,Low Resource,
-06113010302,Yolo,06113,0.604,-0.125,0.525,0.334,High Resource,
-06113010310,Yolo,06113,0.518,0.008,0.507,0.344,High Resource,
-06113010312,Yolo,06113,0.463,0.009,0.507,0.326,High Resource,
-06113010401,Yolo,06113,1.124,-0.302,1.078,0.634,Highest Resource,
-06113010402,Yolo,06113,1.014,0.214,0.507,0.578,Highest Resource,
-06113010501,Yolo,06113,-0.817,0.014,1.515,0.238,High Resource,
-06113010505,Yolo,06113,0.808,-1.032,1.33,0.369,High Resource,
-06113010508,Yolo,06113,0.4,-0.255,1.593,0.579,Highest Resource,
-06113010509,Yolo,06113,0.046,0.257,1.515,0.606,Highest Resource,
-06113010510,Yolo,06113,0.127,0.31,1.515,0.651,Highest Resource,
-06113010511,Yolo,06113,0.462,0.503,1.593,0.853,Highest Resource,
-06113010512,Yolo,06113,0.551,0.441,1.593,0.862,Highest Resource,
-06113010513,Yolo,06113,0.414,0.345,1.593,0.784,Highest Resource,
-06113010602,Yolo,06113,-0.056,0.135,1.34,0.473,High Resource,
-06113010605,Yolo,06113,0.975,0.086,1.551,0.871,Highest Resource,
-06113010606,Yolo,06113,0.264,0.181,0.978,0.474,High Resource,
-06113010607,Yolo,06113,0.954,0.039,1.234,0.742,Highest Resource,
-06113010608,Yolo,06113,-0.669,0.152,0.978,0.154,High Resource,
-06113010701,Yolo,06113,0.363,0.327,1.515,0.735,Highest Resource,
-06113010703,Yolo,06113,-0.261,0.42,1.593,0.584,Highest Resource,
-06113010704,Yolo,06113,0.171,0.43,1.515,0.705,Highest Resource,
-06113010800,Yolo,06113,-0.915,0.351,-0.306,-0.29,Low Resource,
-06113010901,Yolo,06113,-0.636,0.565,-0.373,-0.148,Moderate Resource,
-06113010902,Yolo,06113,-1.128,0.574,-0.373,-0.309,Low Resource,
-06113011001,Yolo,06113,-0.418,0.54,-0.415,-0.098,Moderate Resource,
-06113011002,Yolo,06113,0.124,0.608,0.201,0.311,High Resource,
-06113011101,Yolo,06113,-0.622,0.447,-0.386,-0.187,Moderate Resource,
-06113011102,Yolo,06113,-1.112,0.496,-0.386,-0.334,Low Resource,
-06113011103,Yolo,06113,-0.436,0.601,-0.249,-0.028,Moderate Resource,
-06113011203,Yolo,06113,0.196,0.526,0.201,0.308,High Resource,
-06113011204,Yolo,06113,-0.111,0.413,-0.386,-0.028,Moderate Resource,
-06113011205,Yolo,06113,-0.067,0.596,-0.249,0.093,Moderate Resource,
-06113011206,Yolo,06113,-0.253,-0.619,0.232,-0.213,Moderate Resource,
+﻿GEOID,countyn,countyid,economicc,environc,educc,composite,category
+06017030200,El Dorado,06017,-0.499,0.467,-0.371,-0.134,Moderate Resource
+06017030301,El Dorado,06017,-0.782,0.472,-0.371,-0.227,Moderate Resource
+06017030302,El Dorado,06017,-0.649,0.416,-0.371,-0.201,Moderate Resource
+06017030401,El Dorado,06017,-0.114,0.363,-0.371,-0.041,Moderate Resource
+06017030402,El Dorado,06017,-0.912,0.541,-0.371,-0.247,Low Resource
+06017030504,El Dorado,06017,0.082,0.593,-0.371,0.101,High Resource
+06017030701,El Dorado,06017,0.66,0.337,1.826,0.941,Highest Resource
+06017030704,El Dorado,06017,0.326,0.075,1.193,0.531,Highest Resource
+06017030706,El Dorado,06017,0.839,0.178,1.798,0.938,Highest Resource
+06017030709,El Dorado,06017,0.805,0.272,1.826,0.968,Highest Resource
+06017030710,El Dorado,06017,0.619,0.274,1.822,0.905,Highest Resource
+06017030808,El Dorado,06017,-0.096,0.292,0.961,0.386,High Resource
+06017031600,El Dorado,06017,-0.537,0.467,-0.371,-0.147,Moderate Resource
+06017031700,El Dorado,06017,1.159,0.233,1.826,1.073,Highest Resource
+06017031800,El Dorado,06017,0.695,0.261,1.698,0.885,Highest Resource
+06017990000,El Dorado,06017,NA,NA,NA,NA,NA
+06061020601,Placer,06061,0.873,0.322,1.313,0.836,Highest Resource
+06061020604,Placer,06061,0.912,0.306,1.635,0.951,Highest Resource
+06061020605,Placer,06061,0.954,0.252,1.63,0.945,Highest Resource
+06061020606,Placer,06061,0.998,0.36,1.617,0.992,Highest Resource
+06061020710,Placer,06061,0.579,0.383,1.259,0.741,Highest Resource
+06061020711,Placer,06061,0.446,0.307,1.259,0.671,Highest Resource
+06061020712,Placer,06061,-0.069,0.114,0.525,0.19,High Resource
+06061020713,Placer,06061,-0.23,0.028,0.361,0.053,Moderate Resource
+06061020714,Placer,06061,0.515,-0.076,0.361,0.267,High Resource
+06061020715,Placer,06061,0.179,0.33,0.733,0.414,High Resource
+06061020717,Placer,06061,0.728,0.101,1.574,0.801,Highest Resource
+06061020805,Placer,06061,0.039,-0.119,0.019,-0.02,Moderate Resource
+06061020806,Placer,06061,-0.023,-0.293,0.362,0.015,Moderate Resource
+06061020901,Placer,06061,-0.799,-0.154,0.019,-0.311,Low Resource
+06061020908,Placer,06061,-0.474,-0.257,0.525,-0.068,Moderate Resource
+06061021003,Placer,06061,-0.137,-0.291,0.462,0.011,Moderate Resource
+06061021034,Placer,06061,0.578,0.092,1.217,0.629,Highest Resource
+06061021035,Placer,06061,0.515,0.415,0.769,0.566,Highest Resource
+06061021037,Placer,06061,0.281,0.345,1.071,0.566,Highest Resource
+06061021038,Placer,06061,0.413,0.37,1.071,0.618,Highest Resource
+06061021039,Placer,06061,0.557,0.344,1.497,0.799,Highest Resource
+06061021040,Placer,06061,0.332,0.319,1.497,0.716,Highest Resource
+06061021043,Placer,06061,0.647,0.164,1.305,0.706,Highest Resource
+06061021044,Placer,06061,0.542,0.317,1.497,0.785,Highest Resource
+06061021045,Placer,06061,-0.174,0.129,0.525,0.16,High Resource
+06061021046,Placer,06061,0.082,0.215,0.525,0.274,High Resource
+06061021103,Placer,06061,-0.356,0.234,1.235,0.371,High Resource
+06061021106,Placer,06061,0.288,0.4,1.094,0.594,Highest Resource
+06061021108,Placer,06061,-0.458,0.124,1.235,0.301,High Resource
+06061021109,Placer,06061,0.617,0.203,1.26,0.693,Highest Resource
+06061021122,Placer,06061,0.667,0.393,1.721,0.927,Highest Resource
+06061021123,Placer,06061,0.651,0.427,1.72,0.933,Highest Resource
+06061021128,Placer,06061,0.186,0.342,0.911,0.48,High Resource
+06061021129,Placer,06061,-0.194,0.247,0.911,0.321,High Resource
+06061021130,Placer,06061,0.22,0.305,1.389,0.638,Highest Resource
+06061021131,Placer,06061,0.207,0.303,1.153,0.554,Highest Resource
+06061021309,Placer,06061,0.493,0.318,1.511,0.774,Highest Resource
+06061021322,Placer,06061,0.232,-0.095,1.54,0.559,Highest Resource
+06061021401,Placer,06061,-0.558,0.148,0.199,-0.07,Moderate Resource
+06061021403,Placer,06061,-0.687,0.289,0.396,-0.001,Moderate Resource
+06061022400,Placer,06061,0.71,0.008,1.124,0.614,Highest Resource
+06061022500,Placer,06061,0.695,0.194,0.384,0.424,High Resource
+06061022600,Placer,06061,0.156,0.125,1.217,0.499,Highest Resource
+06061022800,Placer,06061,0.47,0.168,1.285,0.641,Highest Resource
+06061022900,Placer,06061,0.409,0.271,1.585,0.755,Highest Resource
+06061023000,Placer,06061,0.515,0.235,1.836,0.862,Highest Resource
+06061023100,Placer,06061,0.752,0.307,1.408,0.822,Highest Resource
+06061023200,Placer,06061,0.25,0.321,0.396,0.322,High Resource
+06061023300,Placer,06061,0.163,0.303,0.396,0.287,High Resource
+06061023400,Placer,06061,-0.123,0.357,-0.246,-0.004,Moderate Resource
+06061023500,Placer,06061,0.57,0.271,1.09,0.644,Highest Resource
+06061023600,Placer,06061,0.083,0.274,1.088,0.482,Highest Resource
+06061023700,Placer,06061,0.027,0.255,0.383,0.222,High Resource
+06061023800,Placer,06061,0.279,-0.116,0.633,0.265,High Resource
+06061023900,Placer,06061,0.076,0.373,-0.155,0.098,High Resource
+06061990000,Placer,06061,NA,NA,NA,NA,NA
+06067000100,Sacramento,06067,1.392,0.081,0.779,0.751,Highest Resource
+06067000200,Sacramento,06067,1.372,0.168,0.268,0.603,Highest Resource
+06067000300,Sacramento,06067,1.51,-0.04,0.268,0.579,Highest Resource
+06067000400,Sacramento,06067,0.957,-0.823,0.16,0.098,High Resource
+06067000500,Sacramento,06067,0.627,-1.947,-0.097,-0.472,Low Resource
+06067000600,Sacramento,06067,-0.112,-0.941,-0.097,NA,High Segregation & Poverty
+06067000700,Sacramento,06067,NA,NA,NA,NA,NA
+06067000800,Sacramento,06067,0.972,-0.542,-0.681,-0.084,Moderate Resource
+06067001101,Sacramento,06067,-0.03,-1.137,-0.097,-0.421,Low Resource
+06067001200,Sacramento,06067,0.81,-0.642,-0.097,0.024,Moderate Resource
+06067001300,Sacramento,06067,0.99,-0.278,-0.389,0.107,High Resource
+06067001400,Sacramento,06067,0.472,-0.285,0.16,0.116,High Resource
+06067001500,Sacramento,06067,1.511,-0.117,0.017,0.47,High Resource
+06067001600,Sacramento,06067,1.271,-0.212,0.719,0.593,Highest Resource
+06067001700,Sacramento,06067,0.275,-0.241,-0.021,0.005,Moderate Resource
+06067001800,Sacramento,06067,0.124,-0.132,-0.96,-0.323,Low Resource
+06067001900,Sacramento,06067,0.666,-0.392,-0.246,0.01,Moderate Resource
+06067002000,Sacramento,06067,0.163,-0.66,0.413,-0.028,Moderate Resource
+06067002100,Sacramento,06067,0.536,-0.764,0.093,-0.045,Moderate Resource
+06067002200,Sacramento,06067,-0.131,-0.803,0.093,NA,High Segregation & Poverty
+06067002300,Sacramento,06067,1.33,-0.228,0.093,0.398,High Resource
+06067002400,Sacramento,06067,1.57,-0.322,0.333,0.527,Highest Resource
+06067002500,Sacramento,06067,1.462,0.034,-1.237,0.087,Moderate Resource
+06067002600,Sacramento,06067,1.059,-0.013,-1.237,-0.064,Moderate Resource
+06067002700,Sacramento,06067,-0.373,-0.117,-1.237,-0.575,Low Resource
+06067002800,Sacramento,06067,-0.666,0.225,-1.133,NA,High Segregation & Poverty
+06067002900,Sacramento,06067,0.194,0.11,-1.165,-0.287,Low Resource
+06067003000,Sacramento,06067,-0.053,-0.039,-1.317,-0.47,Low Resource
+06067003101,Sacramento,06067,-0.343,0.058,-0.83,-0.372,Low Resource
+06067003102,Sacramento,06067,-0.496,0.259,-1.164,-0.467,Low Resource
+06067003202,Sacramento,06067,-0.899,0.14,-1.342,NA,High Segregation & Poverty
+06067003203,Sacramento,06067,-0.913,0.174,-0.625,NA,High Segregation & Poverty
+06067003204,Sacramento,06067,-1.112,0.057,-0.625,NA,High Segregation & Poverty
+06067003300,Sacramento,06067,0.963,0.203,-0.043,0.374,High Resource
+06067003400,Sacramento,06067,0.119,0.085,-0.375,-0.057,Moderate Resource
+06067003501,Sacramento,06067,-0.218,0.059,-0.515,-0.224,Moderate Resource
+06067003502,Sacramento,06067,0.068,0.09,-0.043,0.038,Moderate Resource
+06067003600,Sacramento,06067,-0.536,0.121,-1.329,-0.581,Low Resource
+06067003700,Sacramento,06067,-1.089,-0.098,-1.416,NA,High Segregation & Poverty
+06067003800,Sacramento,06067,-0.545,0.234,-1.329,-0.547,Low Resource
+06067003900,Sacramento,06067,0.849,0.066,-0.268,0.215,High Resource
+06067004001,Sacramento,06067,0.346,0.007,-0.344,0.003,Moderate Resource
+06067004004,Sacramento,06067,0.671,0.362,-0.245,0.262,High Resource
+06067004005,Sacramento,06067,0.294,0.282,-0.104,0.157,High Resource
+06067004006,Sacramento,06067,0.307,0.036,-0.622,-0.093,Moderate Resource
+06067004008,Sacramento,06067,0.613,0.347,-0.557,0.134,High Resource
+06067004009,Sacramento,06067,0.602,0.285,-0.557,0.11,High Resource
+06067004010,Sacramento,06067,0.18,0.164,-0.463,-0.04,Moderate Resource
+06067004011,Sacramento,06067,0.949,0.274,-0.557,0.222,High Resource
+06067004012,Sacramento,06067,0.847,0.166,-0.557,0.152,High Resource
+06067004100,Sacramento,06067,-0.979,0.117,-1.494,NA,High Segregation & Poverty
+06067004201,Sacramento,06067,-0.649,0.129,-1.118,-0.546,Low Resource
+06067004202,Sacramento,06067,-0.633,0.092,-1.351,-0.631,Low Resource
+06067004203,Sacramento,06067,-1.153,0.181,-1.474,NA,High Segregation & Poverty
+06067004300,Sacramento,06067,-0.909,-0.034,-1.266,-0.736,Low Resource
+06067004401,Sacramento,06067,-0.861,0.017,-1.564,-0.803,Low Resource
+06067004402,Sacramento,06067,-1.015,0.049,-1.253,NA,High Segregation & Poverty
+06067004501,Sacramento,06067,-0.619,-0.205,-1.401,NA,High Segregation & Poverty
+06067004502,Sacramento,06067,-1.146,-0.298,-1.416,NA,High Segregation & Poverty
+06067004601,Sacramento,06067,-0.893,-0.147,-1.507,NA,High Segregation & Poverty
+06067004602,Sacramento,06067,-0.954,-0.35,-1.401,NA,High Segregation & Poverty
+06067004701,Sacramento,06067,-0.861,-0.226,-1.157,NA,High Segregation & Poverty
+06067004702,Sacramento,06067,-0.872,-0.413,-1.416,NA,High Segregation & Poverty
+06067004801,Sacramento,06067,-0.724,-0.076,-0.847,-0.549,Low Resource
+06067004802,Sacramento,06067,-0.93,-0.17,-0.691,NA,High Segregation & Poverty
+06067004903,Sacramento,06067,-1.042,0.055,-1.272,NA,High Segregation & Poverty
+06067004904,Sacramento,06067,-0.713,-0.155,-1.047,-0.638,Low Resource
+06067004905,Sacramento,06067,-0.632,0.072,-0.652,-0.404,Low Resource
+06067004906,Sacramento,06067,-0.802,0.236,-0.746,-0.437,Low Resource
+06067005001,Sacramento,06067,-0.964,-0.145,-0.74,NA,High Segregation & Poverty
+06067005002,Sacramento,06067,-1.123,-0.238,-0.736,NA,High Segregation & Poverty
+06067005101,Sacramento,06067,-0.934,-0.091,-0.74,NA,High Segregation & Poverty
+06067005102,Sacramento,06067,-0.975,-0.894,-0.74,-0.87,Low Resource
+06067005201,Sacramento,06067,-0.53,-0.052,0.647,0.022,Moderate Resource
+06067005202,Sacramento,06067,0.735,-0.267,-0.332,0.045,Moderate Resource
+06067005204,Sacramento,06067,0.634,-0.265,-0.332,0.012,Moderate Resource
+06067005205,Sacramento,06067,-0.475,-1.622,-0.443,-0.847,Low Resource
+06067005301,Sacramento,06067,-1.408,-1.683,-0.955,NA,High Segregation & Poverty
+06067005402,Sacramento,06067,0.388,-0.147,-0.608,-0.122,Moderate Resource
+06067005403,Sacramento,06067,0.692,0.079,0.767,0.512,Highest Resource
+06067005404,Sacramento,06067,1.411,-0.161,-0.277,0.324,High Resource
+06067005502,Sacramento,06067,-0.67,-0.172,-1.268,NA,High Segregation & Poverty
+06067005505,Sacramento,06067,-0.687,-0.091,-1.192,NA,High Segregation & Poverty
+06067005506,Sacramento,06067,-0.349,-0.126,-1.179,NA,High Segregation & Poverty
+06067005508,Sacramento,06067,0.259,-0.181,-0.72,-0.214,Moderate Resource
+06067005509,Sacramento,06067,-0.246,-0.164,-1.179,-0.53,Low Resource
+06067005510,Sacramento,06067,-0.064,-0.203,-1.179,-0.482,Low Resource
+06067005601,Sacramento,06067,-0.453,-0.152,-1.124,-0.577,Low Resource
+06067005605,Sacramento,06067,-0.037,-0.046,-0.929,NA,High Segregation & Poverty
+06067005606,Sacramento,06067,0.488,-0.192,-0.67,-0.125,Moderate Resource
+06067005701,Sacramento,06067,0.842,-0.122,0.221,0.314,High Resource
+06067005702,Sacramento,06067,1.539,-0.172,-0.401,0.322,High Resource
+06067005801,Sacramento,06067,0.747,-0.001,-0.521,0.075,Moderate Resource
+06067005803,Sacramento,06067,1.393,-0.115,0.395,0.558,Highest Resource
+06067005804,Sacramento,06067,1.487,0.065,-0.044,0.503,Highest Resource
+06067005901,Sacramento,06067,0.403,-0.134,-1.023,-0.252,Low Resource
+06067005903,Sacramento,06067,-0.061,0.042,-0.441,-0.153,Moderate Resource
+06067005904,Sacramento,06067,0.243,-0.073,-0.143,0.009,Moderate Resource
+06067006002,Sacramento,06067,-0.126,-0.062,-0.122,-0.103,Moderate Resource
+06067006003,Sacramento,06067,-0.276,-0.204,-0.361,-0.28,Low Resource
+06067006004,Sacramento,06067,0.615,-0.17,-0.122,0.108,High Resource
+06067006101,Sacramento,06067,-0.125,-0.264,-0.661,-0.35,Low Resource
+06067006102,Sacramento,06067,-0.431,-0.151,-1.048,-0.543,Low Resource
+06067006201,Sacramento,06067,-0.676,-0.208,-1.308,NA,High Segregation & Poverty
+06067006202,Sacramento,06067,-0.969,-0.274,-1.271,NA,High Segregation & Poverty
+06067006300,Sacramento,06067,-0.995,-0.094,-1.322,NA,High Segregation & Poverty
+06067006400,Sacramento,06067,-0.914,-0.271,-0.992,-0.726,Low Resource
+06067006500,Sacramento,06067,-1.047,0.051,-1.325,NA,High Segregation & Poverty
+06067006600,Sacramento,06067,-1.142,0.081,-1.164,NA,High Segregation & Poverty
+06067006701,Sacramento,06067,-0.561,-0.062,-1.612,-0.745,Low Resource
+06067006702,Sacramento,06067,-1.103,-0.129,-1.348,NA,High Segregation & Poverty
+06067006800,Sacramento,06067,-0.696,0.043,-1.103,NA,High Segregation & Poverty
+06067006900,Sacramento,06067,-0.378,-0.283,-1.012,NA,High Segregation & Poverty
+06067007001,Sacramento,06067,-0.539,-0.168,-0.941,NA,High Segregation & Poverty
+06067007004,Sacramento,06067,-0.377,-0.167,-0.559,-0.368,Low Resource
+06067007007,Sacramento,06067,-0.464,-0.224,-0.857,-0.515,Low Resource
+06067007010,Sacramento,06067,0.655,-0.204,-0.027,0.141,High Resource
+06067007011,Sacramento,06067,-0.11,-0.215,-0.476,-0.267,Low Resource
+06067007012,Sacramento,06067,-0.247,-0.055,-0.476,-0.259,Low Resource
+06067007013,Sacramento,06067,-0.206,0.152,-0.397,-0.15,Moderate Resource
+06067007014,Sacramento,06067,-0.349,0.018,-0.686,-0.339,Low Resource
+06067007015,Sacramento,06067,0.334,0.198,0.238,0.257,High Resource
+06067007016,Sacramento,06067,0.127,0.032,-0.061,0.033,Moderate Resource
+06067007017,Sacramento,06067,0.586,-0.301,0.169,0.151,High Resource
+06067007018,Sacramento,06067,0.153,-0.011,-0.033,0.036,Moderate Resource
+06067007019,Sacramento,06067,-0.667,-0.034,0.861,NA,High Segregation & Poverty
+06067007020,Sacramento,06067,0.716,-0.236,-0.027,0.151,High Resource
+06067007101,Sacramento,06067,NA,NA,NA,NA,NA
+06067007102,Sacramento,06067,0.307,0.338,0.394,0.346,High Resource
+06067007103,Sacramento,06067,0.408,0.433,0.418,0.42,High Resource
+06067007104,Sacramento,06067,0.815,0.468,0.655,0.646,Highest Resource
+06067007105,Sacramento,06067,0.163,0.362,-0.002,0.174,High Resource
+06067007106,Sacramento,06067,0.548,0.323,0.861,0.578,Highest Resource
+06067007107,Sacramento,06067,0.922,0.222,-0.097,0.349,High Resource
+06067007202,Sacramento,06067,-0.542,0.058,-0.487,-0.324,Low Resource
+06067007204,Sacramento,06067,-0.317,0.167,-1.006,-0.385,Low Resource
+06067007206,Sacramento,06067,-0.352,0.338,-0.646,-0.22,Moderate Resource
+06067007207,Sacramento,06067,-0.541,0.304,-0.408,-0.215,Moderate Resource
+06067007208,Sacramento,06067,-0.49,0.318,-0.66,-0.277,Low Resource
+06067007209,Sacramento,06067,-0.846,0.354,-0.66,-0.384,Low Resource
+06067007301,Sacramento,06067,-0.842,-1.647,-0.332,NA,High Segregation & Poverty
+06067007402,Sacramento,06067,-0.894,0.016,-1.073,-0.65,Low Resource
+06067007403,Sacramento,06067,-0.967,-0.135,-1.112,-0.738,Low Resource
+06067007406,Sacramento,06067,-0.881,0.022,-0.346,-0.402,Low Resource
+06067007413,Sacramento,06067,-0.859,-1.19,-0.596,-0.882,Low Resource
+06067007414,Sacramento,06067,-0.637,0.139,-1.01,-0.503,Low Resource
+06067007415,Sacramento,06067,-0.36,-0.469,-0.954,-0.594,Low Resource
+06067007416,Sacramento,06067,-0.677,0.037,-1.036,-0.559,Low Resource
+06067007417,Sacramento,06067,-0.381,0.28,-0.232,-0.111,Moderate Resource
+06067007421,Sacramento,06067,0.203,0.081,-0.228,0.019,Moderate Resource
+06067007422,Sacramento,06067,-0.766,0.041,-0.787,-0.504,Low Resource
+06067007423,Sacramento,06067,-0.975,0.109,-1.253,NA,High Segregation & Poverty
+06067007424,Sacramento,06067,-0.985,-0.627,-1.253,NA,High Segregation & Poverty
+06067007426,Sacramento,06067,-0.647,0.147,-0.232,-0.244,Low Resource
+06067007427,Sacramento,06067,-0.474,0.132,-0.161,-0.168,Moderate Resource
+06067007428,Sacramento,06067,-0.221,0.059,-0.629,-0.264,Low Resource
+06067007429,Sacramento,06067,-0.731,0.222,-0.462,-0.324,Low Resource
+06067007430,Sacramento,06067,-0.451,0.194,-0.162,-0.14,Moderate Resource
+06067007431,Sacramento,06067,-0.473,0.274,-0.122,-0.107,Moderate Resource
+06067007432,Sacramento,06067,-0.153,0.22,0.074,0.047,Moderate Resource
+06067007433,Sacramento,06067,-0.197,0.048,0.028,-0.041,Moderate Resource
+06067007501,Sacramento,06067,-0.699,-0.344,-0.961,-0.668,Low Resource
+06067007503,Sacramento,06067,-0.47,-0.232,-1.124,-0.609,Low Resource
+06067007504,Sacramento,06067,-0.294,-0.45,-1.174,-0.639,Low Resource
+06067007601,Sacramento,06067,0.103,-0.098,-0.317,-0.104,Moderate Resource
+06067007602,Sacramento,06067,-0.288,-0.077,-0.389,-0.251,Low Resource
+06067007701,Sacramento,06067,-0.17,0.097,-0.244,-0.106,Moderate Resource
+06067007702,Sacramento,06067,0.707,0.047,-0.419,0.111,High Resource
+06067007801,Sacramento,06067,-0.152,-0.129,0.026,-0.085,Moderate Resource
+06067007802,Sacramento,06067,0.21,-0.07,-0.104,0.012,Moderate Resource
+06067007903,Sacramento,06067,0.246,-0.146,-0.856,-0.252,Low Resource
+06067007904,Sacramento,06067,0.372,0.069,0.263,0.235,High Resource
+06067007905,Sacramento,06067,0.296,-0.016,-0.123,0.053,Moderate Resource
+06067007906,Sacramento,06067,0.296,0.123,-0.886,-0.156,Moderate Resource
+06067008005,Sacramento,06067,0.767,-0.259,0.567,0.359,High Resource
+06067008006,Sacramento,06067,0.387,-0.101,0.12,0.135,High Resource
+06067008007,Sacramento,06067,0.243,0.017,-0.733,-0.158,Moderate Resource
+06067008008,Sacramento,06067,0.39,0.196,-0.733,-0.049,Moderate Resource
+06067008009,Sacramento,06067,0.426,-0.069,0.107,0.155,High Resource
+06067008010,Sacramento,06067,0.374,-0.1,0.263,0.179,High Resource
+06067008111,Sacramento,06067,-0.307,-0.019,-0.689,-0.338,Low Resource
+06067008113,Sacramento,06067,-0.341,-0.21,-0.718,-0.423,Low Resource
+06067008117,Sacramento,06067,-0.198,-0.126,-0.856,-0.393,Low Resource
+06067008119,Sacramento,06067,-0.191,-0.056,-0.532,-0.26,Low Resource
+06067008120,Sacramento,06067,-0.164,0.159,-0.555,-0.186,Moderate Resource
+06067008122,Sacramento,06067,0.282,0.12,-0.84,-0.146,Moderate Resource
+06067008124,Sacramento,06067,-0.04,0.235,-0.531,-0.112,Moderate Resource
+06067008125,Sacramento,06067,-0.244,0.294,-0.384,-0.111,Moderate Resource
+06067008127,Sacramento,06067,-0.55,0.054,-0.718,-0.405,Low Resource
+06067008128,Sacramento,06067,-0.505,-0.292,-0.718,-0.505,Low Resource
+06067008129,Sacramento,06067,-0.255,-0.17,-0.704,-0.376,Low Resource
+06067008130,Sacramento,06067,-0.365,-0.093,-0.658,-0.372,Low Resource
+06067008131,Sacramento,06067,-0.274,-0.308,-0.695,-0.426,Low Resource
+06067008132,Sacramento,06067,-0.257,-0.331,-0.623,-0.404,Low Resource
+06067008133,Sacramento,06067,-0.558,-0.116,-0.987,-0.554,Low Resource
+06067008134,Sacramento,06067,-0.102,-0.165,-0.948,-0.405,Low Resource
+06067008135,Sacramento,06067,-0.195,-0.064,-0.305,-0.188,Moderate Resource
+06067008136,Sacramento,06067,0.15,0.087,-0.818,-0.194,Moderate Resource
+06067008137,Sacramento,06067,-0.017,0.04,-0.733,-0.237,Moderate Resource
+06067008138,Sacramento,06067,-0.15,0.022,-0.733,-0.287,Low Resource
+06067008139,Sacramento,06067,-0.667,0.098,-1.213,-0.594,Low Resource
+06067008140,Sacramento,06067,-0.232,0.156,-0.595,-0.224,Moderate Resource
+06067008141,Sacramento,06067,-0.671,0.116,-0.733,-0.429,Low Resource
+06067008142,Sacramento,06067,-0.313,0.157,-0.779,-0.311,Low Resource
+06067008143,Sacramento,06067,-0.179,0.139,-0.779,-0.273,Low Resource
+06067008144,Sacramento,06067,0.102,0.169,-0.555,-0.094,Moderate Resource
+06067008145,Sacramento,06067,-0.032,0.244,-0.201,0.004,Moderate Resource
+06067008203,Sacramento,06067,-0.102,0.228,0.167,0.098,High Resource
+06067008204,Sacramento,06067,-0.028,0.13,0.59,0.231,High Resource
+06067008206,Sacramento,06067,0.238,0.127,0.333,0.233,High Resource
+06067008207,Sacramento,06067,0.211,0.103,0.401,0.238,High Resource
+06067008208,Sacramento,06067,-0.162,0.115,0.597,0.183,High Resource
+06067008209,Sacramento,06067,0.571,0.226,0.529,0.442,High Resource
+06067008210,Sacramento,06067,0.491,0.252,1.036,0.593,Highest Resource
+06067008211,Sacramento,06067,0.132,-0.197,0.116,0.017,Moderate Resource
+06067008402,Sacramento,06067,0.067,0.028,1.31,0.468,High Resource
+06067008403,Sacramento,06067,0.529,0.233,1.418,0.727,Highest Resource
+06067008404,Sacramento,06067,0.095,-0.012,1.09,0.391,High Resource
+06067008501,Sacramento,06067,0.855,0.099,1.573,0.842,Highest Resource
+06067008504,Sacramento,06067,0.7,-0.306,1.283,0.559,Highest Resource
+06067008505,Sacramento,06067,0.738,0.266,1.466,0.824,Highest Resource
+06067008506,Sacramento,06067,0.364,0.246,1.329,0.646,Highest Resource
+06067008507,Sacramento,06067,0.644,0.108,1.702,0.818,Highest Resource
+06067008508,Sacramento,06067,0.896,-0.323,1.684,0.752,Highest Resource
+06067008509,Sacramento,06067,1.009,0.294,1.573,0.959,Highest Resource
+06067008510,Sacramento,06067,0.65,0.253,1.584,0.829,Highest Resource
+06067008512,Sacramento,06067,1.082,0.27,1.729,1.027,Highest Resource
+06067008513,Sacramento,06067,0.89,0.074,1.717,0.894,Highest Resource
+06067008702,Sacramento,06067,1.201,-0.662,0.107,0.215,High Resource
+06067008703,Sacramento,06067,0.625,-1.524,0.018,-0.294,Low Resource
+06067008704,Sacramento,06067,0.221,0.052,1.199,0.491,Highest Resource
+06067008705,Sacramento,06067,0.407,-1.524,1.2,0.028,Moderate Resource
+06067008801,Sacramento,06067,-0.172,-0.563,0.702,-0.011,Moderate Resource
+06067008905,Sacramento,06067,-0.172,-0.164,-0.159,-0.165,Moderate Resource
+06067008907,Sacramento,06067,-0.718,-0.192,-0.076,-0.328,Low Resource
+06067008908,Sacramento,06067,-0.496,-0.249,-0.13,-0.292,Low Resource
+06067008909,Sacramento,06067,0.002,-0.133,0.041,-0.03,Moderate Resource
+06067008910,Sacramento,06067,-0.326,-0.129,-0.404,-0.286,Low Resource
+06067008911,Sacramento,06067,-0.606,0.113,-0.404,NA,High Segregation & Poverty
+06067008912,Sacramento,06067,0.108,-0.341,0.553,0.107,High Resource
+06067008913,Sacramento,06067,-0.381,-0.211,-0.003,-0.198,Moderate Resource
+06067009004,Sacramento,06067,-0.411,-0.34,-1.037,-0.596,Low Resource
+06067009005,Sacramento,06067,-0.429,-0.263,-1.016,-0.57,Low Resource
+06067009006,Sacramento,06067,-0.841,-0.577,-1.135,-0.851,Low Resource
+06067009007,Sacramento,06067,-0.479,-0.532,-0.421,-0.477,Low Resource
+06067009008,Sacramento,06067,-0.682,-0.324,-0.314,-0.44,Low Resource
+06067009010,Sacramento,06067,0.318,-0.272,-0.166,-0.04,Moderate Resource
+06067009011,Sacramento,06067,0.572,-0.411,-0.166,-0.002,Moderate Resource
+06067009103,Sacramento,06067,-0.139,-0.076,-0.589,-0.268,Low Resource
+06067009105,Sacramento,06067,0.052,-0.131,-0.644,-0.241,Moderate Resource
+06067009106,Sacramento,06067,0.28,-0.218,-0.804,-0.248,Low Resource
+06067009107,Sacramento,06067,0.284,-0.365,-0.737,-0.273,Low Resource
+06067009108,Sacramento,06067,0.186,0.16,-0.589,-0.081,Moderate Resource
+06067009109,Sacramento,06067,0.108,-0.051,-0.624,-0.189,Moderate Resource
+06067009110,Sacramento,06067,-0.785,-0.142,-0.644,NA,High Segregation & Poverty
+06067009111,Sacramento,06067,0.324,0.131,-0.636,-0.06,Moderate Resource
+06067009112,Sacramento,06067,-0.033,0.042,-0.572,-0.188,Moderate Resource
+06067009201,Sacramento,06067,-0.356,-1.703,0.557,-0.501,Low Resource
+06067009307,Sacramento,06067,0.046,0.217,0.607,0.29,High Resource
+06067009308,Sacramento,06067,-0.425,0.06,0.496,0.044,Moderate Resource
+06067009309,Sacramento,06067,-0.353,0.155,0.397,0.066,Moderate Resource
+06067009310,Sacramento,06067,-0.175,0.184,0.508,0.172,High Resource
+06067009311,Sacramento,06067,-0.295,0.153,-0.015,-0.052,Moderate Resource
+06067009312,Sacramento,06067,-0.036,0.262,0.105,0.11,High Resource
+06067009314,Sacramento,06067,-0.189,0.106,0.349,0.089,Moderate Resource
+06067009316,Sacramento,06067,-0.61,-0.167,-0.15,-0.309,Low Resource
+06067009317,Sacramento,06067,-0.147,0.121,-0.15,-0.059,Moderate Resource
+06067009318,Sacramento,06067,-0.509,-0.171,-0.501,-0.394,Low Resource
+06067009319,Sacramento,06067,-0.678,-0.078,-0.33,-0.362,Low Resource
+06067009320,Sacramento,06067,-0.659,0.071,-0.468,-0.352,Low Resource
+06067009321,Sacramento,06067,-0.478,0.206,-0.33,-0.201,Moderate Resource
+06067009322,Sacramento,06067,-0.181,0.071,0.591,0.16,High Resource
+06067009323,Sacramento,06067,0.237,-0.071,0.642,0.269,High Resource
+06067009324,Sacramento,06067,0.784,0.25,1.195,0.743,Highest Resource
+06067009325,Sacramento,06067,0.534,0.15,1.099,0.594,Highest Resource
+06067009326,Sacramento,06067,0.225,0.291,0.898,0.471,High Resource
+06067009328,Sacramento,06067,0.124,0.317,0.696,0.379,High Resource
+06067009329,Sacramento,06067,-0.272,0.357,0.201,0.096,High Resource
+06067009330,Sacramento,06067,0.352,0.333,0.557,0.414,High Resource
+06067009331,Sacramento,06067,0.332,0.297,0.816,0.482,Highest Resource
+06067009332,Sacramento,06067,0.177,0.309,0.795,0.427,High Resource
+06067009601,Sacramento,06067,-0.575,-0.151,-0.829,-0.518,Low Resource
+06067009606,Sacramento,06067,-0.9,0.005,-0.529,NA,High Segregation & Poverty
+06067009608,Sacramento,06067,-0.457,-0.074,0.393,-0.046,Moderate Resource
+06067009609,Sacramento,06067,-0.487,0.284,-0.382,-0.195,Moderate Resource
+06067009610,Sacramento,06067,-0.745,0.155,-0.531,-0.374,Low Resource
+06067009611,Sacramento,06067,-0.42,0.003,0.338,-0.026,Moderate Resource
+06067009612,Sacramento,06067,0.027,0.207,0.335,0.189,High Resource
+06067009614,Sacramento,06067,-0.161,0.106,0.093,0.012,Moderate Resource
+06067009615,Sacramento,06067,-0.069,0.277,0.262,0.157,High Resource
+06067009616,Sacramento,06067,-0.202,0.197,0.256,0.084,Moderate Resource
+06067009617,Sacramento,06067,0.734,0.208,0.262,0.401,High Resource
+06067009618,Sacramento,06067,-0.207,0.138,0.495,0.142,High Resource
+06067009619,Sacramento,06067,0.304,0.183,0.706,0.398,High Resource
+06067009622,Sacramento,06067,0.348,0.214,1.089,0.55,Highest Resource
+06067009630,Sacramento,06067,0.003,0.509,0.93,0.481,Highest Resource
+06067009632,Sacramento,06067,0.263,0.301,1.025,0.53,Highest Resource
+06067009633,Sacramento,06067,-0.606,0.204,-0.531,-0.311,Low Resource
+06067009634,Sacramento,06067,-0.911,0.226,-0.652,NA,High Segregation & Poverty
+06067009635,Sacramento,06067,0.354,0.283,1.089,0.575,Highest Resource
+06067009636,Sacramento,06067,0.164,0.362,1.042,0.523,Highest Resource
+06067009637,Sacramento,06067,0.226,0.481,0.973,0.56,Highest Resource
+06067009639,Sacramento,06067,-0.515,-0.003,0.444,-0.025,Moderate Resource
+06067988300,Sacramento,06067,NA,NA,NA,NA,NA
+06113010101,Yolo,06113,-0.691,-0.453,-0.947,-0.697,Low Resource
+06113010102,Yolo,06113,-0.676,-0.905,-0.946,-0.842,Low Resource
+06113010201,Yolo,06113,-0.025,-1.142,-0.393,-0.52,Low Resource
+06113010203,Yolo,06113,-1.038,-0.683,-0.684,NA,High Segregation & Poverty
+06113010204,Yolo,06113,-0.483,-0.465,-0.684,-0.544,Low Resource
+06113010302,Yolo,06113,0.604,-0.125,0.525,0.334,High Resource
+06113010310,Yolo,06113,0.518,0.008,0.507,0.344,High Resource
+06113010312,Yolo,06113,0.463,0.009,0.507,0.326,High Resource
+06113010401,Yolo,06113,1.124,-0.302,1.078,0.634,Highest Resource
+06113010402,Yolo,06113,1.014,0.214,0.507,0.578,Highest Resource
+06113010501,Yolo,06113,-0.817,0.014,1.515,0.238,High Resource
+06113010505,Yolo,06113,0.808,-1.032,1.33,0.369,High Resource
+06113010508,Yolo,06113,0.4,-0.255,1.593,0.579,Highest Resource
+06113010509,Yolo,06113,0.046,0.257,1.515,0.606,Highest Resource
+06113010510,Yolo,06113,0.127,0.31,1.515,0.651,Highest Resource
+06113010511,Yolo,06113,0.462,0.503,1.593,0.853,Highest Resource
+06113010512,Yolo,06113,0.551,0.441,1.593,0.862,Highest Resource
+06113010513,Yolo,06113,0.414,0.345,1.593,0.784,Highest Resource
+06113010602,Yolo,06113,-0.056,0.135,1.34,0.473,High Resource
+06113010605,Yolo,06113,0.975,0.086,1.551,0.871,Highest Resource
+06113010606,Yolo,06113,0.264,0.181,0.978,0.474,High Resource
+06113010607,Yolo,06113,0.954,0.039,1.234,0.742,Highest Resource
+06113010608,Yolo,06113,-0.669,0.152,0.978,0.154,High Resource
+06113010701,Yolo,06113,0.363,0.327,1.515,0.735,Highest Resource
+06113010703,Yolo,06113,-0.261,0.42,1.593,0.584,Highest Resource
+06113010704,Yolo,06113,0.171,0.43,1.515,0.705,Highest Resource
+06113010800,Yolo,06113,-0.915,0.351,-0.306,-0.29,Low Resource
+06113010901,Yolo,06113,-0.636,0.565,-0.373,-0.148,Moderate Resource
+06113010902,Yolo,06113,-1.128,0.574,-0.373,-0.309,Low Resource
+06113011001,Yolo,06113,-0.418,0.54,-0.415,-0.098,Moderate Resource
+06113011002,Yolo,06113,0.124,0.608,0.201,0.311,High Resource
+06113011101,Yolo,06113,-0.622,0.447,-0.386,-0.187,Moderate Resource
+06113011102,Yolo,06113,-1.112,0.496,-0.386,-0.334,Low Resource
+06113011103,Yolo,06113,-0.436,0.601,-0.249,-0.028,Moderate Resource
+06113011203,Yolo,06113,0.196,0.526,0.201,0.308,High Resource
+06113011204,Yolo,06113,-0.111,0.413,-0.386,-0.028,Moderate Resource
+06113011205,Yolo,06113,-0.067,0.596,-0.249,0.093,Moderate Resource
+06113011206,Yolo,06113,-0.253,-0.619,0.232,-0.213,Moderate Resource
