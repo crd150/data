@@ -16,7 +16,11 @@ knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message = FALSE)
 ```{r}
 #Type your code here
 
-# R will not run any code after the # sign.  Text after # are meant to be comments you use to explain what the code is doing.
+# R will not run any code after the # sign.  Text after # are meant to be comments you use to explain what the code is doing.  For example
+
+1+1
+
+#the above code adds 1 and 1
 ```
 
 Insert any explanatory here.  You may, for example, want to explain the results of your code.
