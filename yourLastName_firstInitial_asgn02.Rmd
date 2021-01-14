@@ -1,0 +1,80 @@
+---
+title: "Assignment 2"
+subtitle: CRD 150
+author: YOUR FULL NAME HERE
+date: INSERT DATE HERE
+output: 
+  html_document:
+    theme: cosmo
+---
+
+
+```{r setup, include=FALSE}
+# Do not edit this code block/chunk
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message = FALSE)
+```
+
+```{r}
+#Load in all necessary packages using the function library()
+```
+
+1. Download the file *q2data.csv* from Canvas (Files -> Week 2 -> Assignment).  Make sure you download it into an appropriate folder on your hard drive. A codebook is also provided.
+
+a. Read the file into R. 
+
+```{r}
+#Insert your code here
+```
+
+b. How many rows are included in the file? What does each row represent? Remember that whenever you can, you need to use code to answer the questions. 
+
+```{r}
+#Insert your code here
+```
+
+
+c. How many columns are included in the file? What does each column represent?
+
+```{r}
+#Insert your code here
+```
+
+d. Conduct the following data wrangling tasks.  Use the pipe operator to do all of these tasks in one continuous line of code.  Note that you have to decide the appropriate order of the tasks.
+
+* Keep the variables NAME, proportion White, Black and Hispanic, total population, and the difference between Black and White income.
+* Create variables containing the proportion White, Black and Hispanic.
+* Create a variable subtracting White household income from Hispanic household income.
+* Save the changes into a tibble named *q2clean*
+
+```{r}
+#Insert your code here
+```
+
+e. How many observations have a percent Hispanic greater than 50% and have Hispanic households earning more than white households? 
+
+```{r}
+#Insert your code here
+```
+
+
+2. The data set *babynames* contains the number of children of each sex given each name for each year from 1880 to 2017 as collected by the Social Security Administration. All names with more than 5 uses are given. Let's strengthen your data wrangling skills by exploring this unique data set.  Install the package **babynames**.  Run the code `library(babynames)`, `data(babynames)` and `head(babynames)`. You should see the tibble *babynames* pop up in your global environment window. Type in `? babynames` to get a description of this dataset.
+
+a. What was the most popular female baby name in 2017? What about male? 
+
+```{r}
+#Insert your code here
+```
+
+b. Does your name appear in the dataset? If yes, what year was it the most popular? 
+
+
+```{r}
+#Insert your code here
+```
+
+c. Is the name "Madison" a more popular Male or Female name in 2017? What about in 1984? 
+
+```{r}
+#Insert your code here
+```
+
