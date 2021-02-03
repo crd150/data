@@ -1,0 +1,27 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 6, Question 2 data 
+Files houstondems.shp
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2015-2019 American Community Survey 
+Units of observations: Census tracts in 2010 boundaries
+houstondems.shp: Houston Metropolitan Area
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+
+tpop: Total population - tract
+
+pblk: Percent non-Hispanic black - tract
+
+pwht: Percent non-Hispanic white - tract
+
+pasn: Percent non-Hispanic Asian - tract
+
+phisp: Percent Hispanic - tract
+
+NAME: Metropolitan area name
