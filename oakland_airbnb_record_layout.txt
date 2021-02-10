@@ -1,0 +1,23 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 7, Questions 2 data file oakland_airbnb_dec2020.csv
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from http://insideairbnb.com/get-the-data.html
+Airbnb listings in December 2020 
+Oakland City, CA
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+id: Airbnb listing unique id
+name: Listing name
+description: Full listing description
+host_name: Host name
+host_about: Host description
+latitude: Latitude
+longitude: Longitude
+property_type: Property type
+room_type: Room type
+price; Nightly price
+amenities: Included amenities
