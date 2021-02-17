@@ -7,6 +7,8 @@ All data were downloaded from the 2015-2019 American Community Survey
 Units of observations: Census tracts in 2010 boundaries
 houstonrace.csv: Houston City Area
 sacrace.csv: Sacramento City Area
+
+Note: All tracts that have a zero population sizes were removed
  
 --------------------------------------------------------------------------------
 Data Dictionary
