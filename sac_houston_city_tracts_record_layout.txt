@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 8, Question 1 data 
+Files houstonrace.csv and sacrace.csv
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2015-2019 American Community Survey 
+Units of observations: Census tracts in 2010 boundaries
+houstonrace.csv: Houston City Area
+sacrace.csv: Sacramento City Area
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+nhblk: Number of non-Hispanic black - tract
+
+nhwhite: Number of non-Hispanic white - tract
+
+nhasn: Number of non-Hispanic Asian - tract
+
+hisp: Number of Hispanic - tract
+
+tpop: Total population - tract
