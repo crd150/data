@@ -1,0 +1,65 @@
+---
+title: "Assignment 7"
+subtitle: CRD 150
+author: YOUR FULL NAME HERE
+date: INSERT DATE HERE
+output: 
+  html_document:
+    theme: cosmo
+---
+
+
+```{r setup, include=FALSE}
+# Do not edit this code block/chunk
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message = FALSE)
+```
+
+```{r}
+#Load in all necessary packages using the function library()
+```
+
+  
+1. In this question, you will be exploring the spatial distribution of Airbnb listings in the City of Oakland. Airbnb involves renting an entire home, a room or a shared room, typically from a private citizen. The data were downloaded from Airbnb's public use data site. You will be using the shapefile *oak_tracts.zip*,  which contains Oakland City tracts with their population sizes downloaded from the 2015-2019 American Community Survey, and the csv file *oakland_airbnb_dec2020.csv*, which contains Airbnb locations in December 2020. The record layout for *oakland_airbnb_dec2020.csv* can be found here.  The files are located in Canvas (Files - Week 7 - Assignment). Save the files in an appropriate folder. Unzip *oak_tracts.zip* to extract the shapefiles.
+
+a. Read the file *oakland_airbnb_dec2020.csv* into R. Create a point dataset of Airbnb listings using their longitudes and latitudes.  
+
+```{r}
+#Insert your code here
+```
+
+b. Read the file *oak_tracts.shp* into R. Create a variable that represents the number of Airbnb listings in each neighborhood. 
+
+```{r}
+#Insert your code here
+```
+
+c. Create a choropleth map of the number of Airbnb listings per 1,000 residents. 
+
+```{r}
+#Insert your code here
+```
+
+
+2. The purpose of this question is to increase your exposure to the world of open data. In this exercise, you will explore a city's open data portal, answering questions about one of its data sets and examining the data set in R.  Pick **one** of the following cities and answer the questions that follow.
+
+    + New York, NY [(link)](https://opendata.cityofnewyork.us/)
+    + San Francisco, CA [(link)](https://datasf.org/opendata/)
+    + Los Angeles, CA [(link)](https://geohub.lacity.org/)
+    + Chicago, IL [(link)](https://data.cityofchicago.org/)
+
+a. Which city did you choose?
+
+b. Find a dataset that looks interesting to you and can be downloaded and brought into R.  Answer the following questions about this dataset.
+
+* Describe the dataset you selected. What are the variables and the units of observations? 
+* Are you able to manipulate the data online? This includes filtering rows and selecting columns. 
+* Are you able to create visualizations online with the data using graphs and charts? If so, what kinds of graphs and charts? 
+* Are you able to map the data online? If so, what types of maps? 
+* Is the data set accompanied by a codebook with definitions of terms, variables and fields? 
+* Bring the data set into R. Create either a single table, chart or graph that we covered in Lab 4 or a single map that we covered in Lab 5 or Lab 7. Explain what your graphic is showing us. You must show your code to get full points for this question.
+
+
+```{r}
+#Insert your code here
+```
+
