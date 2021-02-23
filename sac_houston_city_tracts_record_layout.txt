@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Codebook for Assignment 8, Question 1 data 
+Codebook for Assignment 8, Question 2 data 
 Files houstonrace.csv and sacrace.csv
 --------------------------------------------------------------------------------
  
