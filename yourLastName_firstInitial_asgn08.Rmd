@@ -1,0 +1,68 @@
+---
+title: "Assignment 8"
+subtitle: CRD 150
+author: YOUR FULL NAME HERE
+date: INSERT DATE HERE
+output: 
+  html_document:
+    theme: cosmo
+---
+
+
+```{r setup, include=FALSE}
+# Do not edit this code block/chunk
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message = FALSE)
+```
+
+```{r}
+#Load in all necessary packages using the function library()
+```
+
+
+1. In Assignment 6, we descriptively examined the claim that Houston is the most racially integrated city in the United States. Let's employ the segregation tools we learned this week to explore this claim in a more rigorous manner.  Let's also compare Houston to Sacramento, a city that has also been proclaimed as among most racially diverse in the nation.  Read in the Houston and Sacramento data sets houstonrace.csv and sacrace.csv, which can be found on Canvas (Files - Week 8 - Assignment). You do not need to convert these data sets into sf objects.  Keep them as regular data frames (tibbles). A record layout of the data can be found here.
+
+a. Calculate the Black/White, Hispanic/White and Asian/White Dissimilarity Indices for Houston.
+
+```{r}
+#Insert your code here
+```
+
+b. Calculate the Black/White, Hispanic/White and Asian/White Dissimilarity Indices for Sacramento.
+
+```{r}
+#Insert your code here
+```
+
+c. What is the interpretation of the Hispanic/White Dissimilarity values for Houston and Sacramento? 
+
+d. Based on your answers to questions (a) and (b), which city is most segregated? Why?
+
+
+                       
+2. We created a gentrification measure for the City of Fresno in Lab 8.  This question asks you to use the same method from Lab (Ding et al. 2016) to create a gentrification measure for the City of Sacramento, which has received a lot of local media attention for the rising presence of gentrification in certain neighborhoods.
+
+a. Use the Census API to bring in the appropriate variables to measure gentrification (see the Lab for the variables and their IDs) from the 2015-2019 American Community Survey (ACS) for census tracts in California.   Keep tracts that are located in the City of Sacramento and append the city GEOID to the tracts.
+
+```{r}
+#Insert your code here
+```
+
+b. Bring in the same variables from (a) but for the 2006-2010 ACS at the tract level and the 2006-2010 and 2015-2019 ACS at the place level.  Remember, you don't need to bring in the spatial data for these files.   Merge these files into the object you created in (a).
+
+```{r}
+#Insert your code here
+```
+
+c. Create a variable that determines whether a neighborhood is not eligible for gentrification, is eligible and did not gentrify, and is eligible and is gentrifying using the Ding et al. measure.
+
+```{r}
+#Insert your code here
+```
+
+d. What is the proportion of tracts in Sacramento that experienced gentrification between 2006-10 and 2015-19?
+
+e. Produce a map of the gentrification variable you created in (c).
+  
+```{r}
+#Insert your code here
+```
