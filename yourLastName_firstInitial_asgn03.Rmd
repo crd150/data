@@ -1,0 +1,80 @@
+---
+title: "Assignment 3"
+subtitle: CRD 150
+author: YOUR FULL NAME HERE
+date: INSERT DATE HERE
+output: 
+  html_document:
+    theme: cosmo
+---
+
+
+```{r setup, include=FALSE}
+# Do not edit this code block/chunk
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message = FALSE)
+```
+
+```{r}
+#Load in all necessary packages using the function library()
+```
+
+
+1. California housing is super duper expensive! How many years of income will it take to buy a home in California? Let's answer this question by examining house-price-to-income ratios in California counties. The ratio gives you the number of years a household needs in order to completely pay for housing in California assuming it uses all of its income to pay it off.  Run the following data wrangling tasks.  Submit all the code you used to accomplish these tasks.  Where possible, use the pipe operator `%>%`. 
+
+
+a. Using the Census API, bring into R 2015-19 American Community Survey county-level estimates of median housing value in California. Make sure the data set is clean - a county should be listed in only one row and the columns should have the county FIPS code, name, and estimates of the median housing value. 
+
+```{r}
+#Insert your code here
+```
+
+b. Using PolicyMap, bring into R 2015-19 American Community Survey estimates of median household income for all counties in California.  Clean the data set.
+
+```{r}
+#Insert your code here
+```
+
+c. Merge the files from (a) and (b) together. Create a variable containing the ratio of median housing value to median household income. That is, the variable should divide the median housing value by median household income. 
+
+```{r}
+#Insert your code here
+```
+
+d. How many years will it take for a household to pay off a house in Yolo County in 2015-19? 
+
+```{r}
+#Insert your code here
+```
+
+e. Which county has the largest housing value-to-income ratio in 2015-2019? Smallest? 
+
+```{r}
+#Insert your code here
+```
+
+
+2. California has experienced a number of historically devastating wildfires in recent years.  One of the most destructive fires occurred in Butte County in November 2018.  Some news articles posited that the wild fires will have severe immediate consequences on the local housing market.  Because the fires burned down a large proportion of homes, reducing housing stock, housing and rental prices will increase because of the low supply and the high demand. The Census released the 2019 1-year ACS data a few months ago, allowing us to test whether rental and housing values in Butte County increased approximately one year after the fires.
+
+a. Use the Census API to bring in 1-year ACS estimates of median housing values and median gross rent for California counties in 2018.  Do the same for 2019 and merge these files together using their GEOID. Filter to keep just Butte county. 
+
+
+```{r}
+#Insert your code here
+```
+
+
+b. Take the difference between the 2018 and 2019 median housing values. Do the same for median gross rent.  Did housing values go up in Butte county? What about rent?
+
+
+```{r}
+#Insert your code here
+```
+
+
+c.  We need an appropriate comparison to Butte county to determine whether the changes we calculated in (b) are large.  Repeat (a) and (b) but for the state of California to get the increase in the state's median housing value and median gross rent from 2018 to 2019. How do the values you calculated in (b) compare to California?  
+
+
+```{r}
+#Insert your code here
+```
+
