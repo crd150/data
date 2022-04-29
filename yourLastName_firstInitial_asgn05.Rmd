@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message = FALSE)
 ```
 
 
-1. One can easily lie (or distort the story) with maps. One of the commonly used tricks for misrepresenting the spatial distribution of phenomena relates to the inappropriate classifications of numeric variables. In the lab guide, we showed quantile breaks of median income in Sacramento. Bring into R the object saccountytractslab5.shp you saved in Lab and produce static maps using three other classifications. Make sure to include all the map features described in the lab (legend, title, etc.). Does your general impression of where high and low income neighborhoods are located in the city change across the different classifications? 
+1. One can easily lie (or distort the story) with maps. One of the commonly used tricks for misrepresenting the spatial distribution of phenomena relates to the inappropriate classifications of numeric variables. In the lab guide, we showed quantile breaks of median housing values in Sacramento. Bring into R the object saccountytractslab5.shp you saved in Lab and produce static maps using three other classifications. Make sure to include all the map features described in the lab (legend, title, etc.). Does your general impression of where high and low income neighborhoods are located in the city change across the different classifications? 
 
 ```{r}
 #Insert your code here
