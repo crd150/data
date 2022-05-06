@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Codebook for Assignment 7, Questions 2 data file oakland_airbnb_dec2020.csv
+Codebook for Assignment 8, Questions 2 data file oakland_airbnb_dec2020.csv
 --------------------------------------------------------------------------------
  
 All data were downloaded from http://insideairbnb.com/get-the-data.html
