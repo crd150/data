@@ -1,0 +1,63 @@
+---
+title: "Assignment 7"
+subtitle: CRD 150
+author: YOUR FULL NAME HERE
+date: INSERT DATE HERE
+output: 
+  html_document:
+    theme: cosmo
+---
+
+
+```{r setup, include=FALSE}
+# Do not edit this code block/chunk
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message = FALSE)
+```
+
+```{r}
+#Load in all necessary packages using the function library()
+```
+
+  
+1. In Assignment 6, we descriptively examined the claim that Houston is the most racially integrated city in the United States. Let’s employ the segregation tools we learned this week to explore this claim in a more rigorous manner. Let’s also compare Houston to Sacramento, a city that has also been proclaimed as among most racially diverse in the nation. Read in the Houston and Sacramento data sets houstonrace.csv and sacrace.csv, which can be found on Canvas (Files - Week 7 - Assignment). You do not need to convert these data sets into sf objects. Keep them as regular data frames (tibbles). 
+
+a. Calculate the Black/White, Hispanic/White and Asian/White Dissimilarity Indices for Houston and Sacramento. 
+
+```{r}
+#Insert your code here
+```
+
+b. Calculate the Black/White, Hispanic/White and Asian/White Interaction Indices for Houston and Sacramento.
+
+```{r}
+#Insert your code here
+```
+
+c. Based on your answers to questions (a) and (b), which city is most segregated? Why? 
+
+```{r}
+#Insert your code here
+```
+
+
+2. We created a gentrification measure for the City of Fresno in Lab 7b. This question asks you to use the same method from Lab (Ding et al. 2016) to create a gentrification measure for the City of Sacramento, which has received a lot of local media attention for the rising presence of gentrification in certain neighborhoods. Download the file assignment7q2.zip from Canvas (Files - Week 7 - Assignment) into the appropriate folder on your hard drive. The file contains sactracts_gentrification.csv, which contains census-tract level data on Sacramento, and sactracts_boundaries.shp, which is a shapefile of Sacramento census tract boundaries. Unzip and bring the files into R. Consider the datasets to be cleaned and ready for analysis. 
+
+a. From the data set sactracts_gentrification.csv, create a variable that determines whether a neighborhood is not eligible for gentrification, is eligible and is not gentrifying, and is eligible and is gentrifying using the Ding et al. measure.
+
+```{r}
+#Insert your code here
+```
+
+
+b. What are the proportions of tracts in Sacramento that were not eligible to gentrify, experienced gentrification and did not experience gentrification between 2006-10 and 2015-19?
+
+```{r}
+#Insert your code here
+```
+
+c. Produce a map of the gentrification variable you created in (a). You will need to join the object containing the gentrification variables to the shapefile of Sacramento tracts sactracts_boundaries.shp. 
+
+```{r}
+#Insert your code here
+```
+
