@@ -46,7 +46,7 @@ d. How many years will it take for a household to pay off a house in Yolo County
 #Insert your code here
 ```
 
-e. Which county has the largest housing value-to-income ratio in 2017-2021? Smallest? 
+e. Which county has the largest housing value-to-income ratio in 2017-21? Smallest? 
 
 ```{r}
 #Insert your code here
