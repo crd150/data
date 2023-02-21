@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 7, Question 2 data 
+Files detroitrace.csv and losangelesrace.csv
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2016-2020 American Community Survey 
+Units of observations: Census tracts in 2020 boundaries
+detroitrace.csv: Detroit City Area
+losangelesrace.csv: Los Angeles City Area
+
+Note: All tracts that have zero population sizes were removed
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+nhblk: Number of non-Hispanic black - tract
+
+nhwhite: Number of non-Hispanic white - tract
+
+nhasn: Number of non-Hispanic Asian - tract
+
+hisp: Number of Hispanic - tract
+
+tpop: Total population - tract
+
+City: City

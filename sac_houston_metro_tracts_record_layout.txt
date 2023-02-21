@@ -1,0 +1,35 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 7, Question 1 data 
+Files houstondems.shp and sacdems.shp
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2016-2020 American Community Survey 
+Units of observations: Census tracts in 2020 boundaries
+houstondems.shp: Houston Metropolitan Area
+sacdems.shp: Sacramento Metropolitan Area
+
+Note: All tracts that have zero population sizes were removed
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+nhblk: Number of non-Hispanic black - tract
+
+nhwhite: Number of non-Hispanic white - tract
+
+nhasn: Number of non-Hispanic Asian - tract
+
+hisp: Number of Hispanic - tract
+
+tpop: Total population - tract
+
+pu18: Percent of residents under the age of 18 years old
+
+p2234: Percent of residents between the ages of 22 and 34
+
+pfb: Percent of residents who are foreign born
+
+Metro: Metropolitan Area 
