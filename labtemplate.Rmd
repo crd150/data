@@ -11,6 +11,7 @@ output:
 ```{r setup, include=FALSE}
 #Don't delete this chunk
 knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message = FALSE)
+knitr::opts_knit$set(progress = TRUE, verbose = TRUE)
 ```
 
 When going through the lab guides, rather than working directly from the R console, I recommended typing in lab code into an R Markdown and working from there. This will give you more practice and experience working in the R Markdown environment, which you will need to do for all of your assignments. Plus you can add your own comments to the code to ensure that you’re understanding what is being done.  Use this R Markdown template to type in code from the lab guide. 
