@@ -3,8 +3,8 @@ Codebook for Assignment 6, Question 2 data
 Files houstondems.shp
 --------------------------------------------------------------------------------
  
-All data were downloaded from the 2015-2019 American Community Survey 
-Units of observations: Census tracts in 2010 boundaries
+All data were downloaded from the 2017-2021 American Community Survey 
+Units of observations: Census tracts in 2020 boundaries
 houstondems.shp: Houston Metropolitan Area
  
 --------------------------------------------------------------------------------
