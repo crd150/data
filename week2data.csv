@@ -1,4 +1,4 @@
-GEOID,name,state,hisp,nhasn,nhblk,nhwhite,tpopr
+GEOID,name,state,hisp,asian,black,white,tpop
 06001,Alameda County,California,367041,468356,175063,524881,1629615
 06003,Alpine County,California,117,8,18,777,1203
 06005,Amador County,California,4943,565,764,29571,37306
