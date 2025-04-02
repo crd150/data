@@ -3,7 +3,7 @@ Codebook for Assignment 4, Question 2 data file ca_border_tracts.csv
 --------------------------------------------------------------------------------
  
 All data were downloaded from the 2019-2023 American Community Survey 
-Units of observations: Census tracts in 2010 boundaries
+Units of observations: Census tracts in 2020 boundaries
 California, Arizona, Nevada, Oregon
  
  
