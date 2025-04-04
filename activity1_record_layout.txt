@@ -1,0 +1,44 @@
+--------------------------------------------------------------------------------
+Codebook for Activity 1 data 
+Files counties_data_1.csv and counties_data_2.csv
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2015-2019 American Community Survey 
+Units of observations: Counties in 2010 boundaries
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: County ID
+
+cy: County name
+
+st: State name
+
+medincome: Median household income 
+
+rent: Median gross rent
+
+whmedinc: White median household income 
+
+blkmedinc: Black median household income
+
+asnmedinc: Asian median household income
+
+hispmedinc: Hispanic median household income 
+
+tpop: Total population
+
+white: Total white population
+
+black: Total Black population
+
+asian: Total Asian population	
+
+hisp: Total Hispanic population
+ 
+povdenom: Population for whom poverty status is determined
+
+povnum: Population whose income in the past 12 months is below the poverty level
+
