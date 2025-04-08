@@ -19,7 +19,7 @@ knitr::opts_knit$set(progress = TRUE, verbose = TRUE)
 #Load in all necessary packages using the function library()
 ```
 
-1. Download the file *q2data.csv* from Canvas (Files -> Week 2 -> Assignment).  Make sure you download it into an appropriate folder on your hard drive. A codebook is also provided.
+1. Download the file *q2data.csv* from Canvas (Files -> Week 2 -> Assignment).  Make sure you download it into an appropriate folder on your hard drive. A codebook is also provided. You must only use functions we’ve learned in lab so far.
 
 a. Read the file into R. 
 
