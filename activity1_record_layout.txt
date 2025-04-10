@@ -1,6 +1,5 @@
 --------------------------------------------------------------------------------
-Codebook for Activity 1 data 
-Files counties_data_1.csv and counties_data_2.csv
+Codebook for counties_data_activity1.csv
 --------------------------------------------------------------------------------
  
 All data were downloaded from the 2015-2019 American Community Survey 
@@ -38,7 +37,11 @@ asian: Total Asian population
 
 hisp: Total Hispanic population
  
-povdenom: Population for whom poverty status is determined
+wpovdenom: Population of white residents for whom poverty status is determined
 
-povnum: Population whose income in the past 12 months is below the poverty level
+wpovnum: Population of white residents whose income in the past 12 months is below the poverty level
+
+bpovdenom: Population of Black residents for whom poverty status is determined
+
+bpovnum: Population of Black residents whose income in the past 12 months is below the poverty level
 
