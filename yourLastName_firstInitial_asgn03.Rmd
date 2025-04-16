@@ -23,13 +23,13 @@ knitr::opts_knit$set(progress = TRUE, verbose = TRUE)
 1. California housing is super duper expensive! How many years of income will it take to buy a home in California? Let's answer this question by examining house-price-to-income ratios in California counties. The ratio gives you the number of years a household needs in order to completely pay for housing in California assuming it uses all of its income to pay it off.  Run the following data wrangling tasks.  Submit all the code you used to accomplish these tasks.  Where possible, use the pipe operator `%>%`. 
 
 
-a. Using the Census API, bring into R 2017-21 American Community Survey county-level estimates of median housing value in California. Make sure the data set is clean - a county should be listed in only one row and the columns should have the county FIPS (GEOID) code, name, and estimates of the median housing value. 
+a. Using the Census API, bring into R 2019-23 American Community Survey county-level estimates of median housing value in California. Make sure the data set is clean - a county should be listed in only one row and the columns should have the county FIPS (GEOID) code, name, and estimates of the median housing value. 
 
 ```{r}
 #Add comment explaining code
 ```
 
-b. Using PolicyMap, bring into R 2017-21 American Community Survey estimates of median household income for all counties in California.  Clean the data set.
+b. Using PolicyMap, bring into R 2019-23 American Community Survey estimates of median household income for all counties in California.  Clean the data set.
 
 ```{r}
 #Add comment explaining code
@@ -41,13 +41,13 @@ c. Merge the files from (a) and (b) together. Create a variable containing the r
 #Add comment explaining code
 ```
 
-d. How many years will it take for a household to pay off a house in Yolo County in 2017-21? 
+d. How many years will it take for a household to pay off a house in Yolo County in 2019-23? 
 
 ```{r}
 #Add comment explaining code
 ```
 
-e. Which county has the largest housing value-to-income ratio in 2017-21? Smallest? 
+e. Which county has the largest housing value-to-income ratio in 2019-23? Smallest? 
 
 ```{r}
 #Add comment explaining code
@@ -63,8 +63,9 @@ a. Use the Census API to bring in 1-year ACS estimates of median housing values 
 #Add comment explaining code
 ```
 
+b. What are the survey units for median housing values? What about for median gross rent? 
 
-b. Take the difference between the 2018 and 2019 median housing values. Do the same for median gross rent.  Did housing values go up in Butte county? What about rent?
+c. Take the difference between the 2018 and 2019 median housing values. Do the same for median gross rent.  Did housing values go up in Butte county? What about rent?
 
 
 ```{r}
@@ -72,7 +73,7 @@ b. Take the difference between the 2018 and 2019 median housing values. Do the s
 ```
 
 
-c.  We need an appropriate comparison to Butte county to determine whether the changes we calculated in (b) are large.  Repeat (a) and (b) but for the state of California to get the increase in the state's median housing value and median gross rent from 2018 to 2019. How do the values you calculated in (b) compare to California?  
+d.  We need an appropriate comparison to Butte county to determine whether the changes we calculated in (b) are large.  Repeat (a) and (b) but for the state of California to get the increase in the state's median housing value and median gross rent from 2018 to 2019. How do the values you calculated in (b) compare to California?  
 
 
 ```{r}
