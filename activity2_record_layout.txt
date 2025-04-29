@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------------
+Codebook for davis_city_tract_rent.shp and boba_places_davis.shp
+--------------------------------------------------------------------------------
+ 
+Data downloaded from the 2019-2023 American Community Survey 
+Bubble tea data downloaded from Yelp
+Units of observations: City of Davis census tracts in 2020 boundaries
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census tract ID
+
+rent2bed: Median rent for a 2-bedroom apartment
+
+
+-------------
+
+Name: Bubble tea establishment name
+
+Street: Street address
+
+City: City
+
+State: State
+
+Yelp: Yelp rating as of 4/28/2025
