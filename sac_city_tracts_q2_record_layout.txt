@@ -1,0 +1,69 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 8, Question 2 data 
+File saccitygent.shp
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2006-2010 and 2015-2019 American Community Survey 
+Units of observations: Sacramento City Census tracts in 2010 boundaries
+
+Note: All tracts that have zero population sizes were removed
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+GEOIDc: City ID
+
+inc10: Median household income, tract level, 2006-2010
+
+pblack10: Percent Non-Hispanic Black residents, tract level, 2006-2010
+
+pwhite10: Percent Non-Hispanic White residents, tract level, 2006-2010
+
+pasian10: Percent Non-Hispanic Asian residents, tract level, 2006-2010
+
+phisp10: Percent Hispanic residents, tract level, 2006-2010
+
+rent10: Median gross rent, tract level, 2006-2010
+
+hval10: Median housing value, tract level, 2006-2010
+
+pcol10: Percent of residents with a college degree, tract level, 2006-2010
+
+tpop10: Total population, tract level, 2006-2010
+
+inc19: Median household income, tract level, 2015-2019
+
+pblack19: Percent Non-Hispanic Black residents, tract level, 2015-2019
+
+pwhite19: Percent Non-Hispanic White residents, tract level, 2015-2019
+
+pasian19: Percent Non-Hispanic Asian residents, tract level, 2015-2019
+
+phisp19: Percent Hispanic residents, tract level, 2015-2019
+
+rent19: Median gross rent, tract level, 2015-2019
+
+hval19: Median housing value, tract level, 2015-2019
+
+pcol19: Percent of residents with a college degree, tract level, 2015-2019
+
+tpop19: Total population, tract level, 2015-2019
+
+inc10c: Median household income, city level, 2006-2010
+
+rent10: Median gross rent, city level, 2006-2010
+
+hval10: Median housing value, city level, 2006-2010
+
+pcol10: Percent of residents with a college degree, city level, 2006-2010
+
+inc19: Median household income, city level, 2015-2019
+
+rent19: Median gross rent, city level, 2015-2019
+
+hval19: Median housing value, city level, 2015-2019
+
+pcol19: Percent of residents with a college degree, city level, 2015-2019
