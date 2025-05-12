@@ -1,9 +1,9 @@
 --------------------------------------------------------------------------------
-Codebook for Assignment 7, Question 1 data 
+Codebook for Assignment 8, Question 1 data 
 Files houstondems.shp and sacdems.shp
 --------------------------------------------------------------------------------
  
-All data were downloaded from the 2016-2020 American Community Survey 
+All data were downloaded from the 2019-2023 American Community Survey 
 Units of observations: Census tracts in 2020 boundaries
 houstondems.shp: Houston Metropolitan Area
 sacdems.shp: Sacramento Metropolitan Area
@@ -16,11 +16,11 @@ Data Dictionary
  
 GEOID: Census Tract ID
 
-nhblk: Number of non-Hispanic black - tract
+Black: Number of non-Hispanic black - tract
 
-nhwhite: Number of non-Hispanic white - tract
+White: Number of non-Hispanic white - tract
 
-nhasn: Number of non-Hispanic Asian - tract
+Asian: Number of non-Hispanic Asian - tract
 
 hisp: Number of Hispanic - tract
 
